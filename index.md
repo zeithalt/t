@@ -1268,7 +1268,7 @@ The faction starts speaking [Deltan language](https://zeithalt.github.io/r/delta
 
 `⚔️ Battle` won by [MindTech Institute](https://zeithalt.github.io/r/mindtech_institute.html)
 
-In the retribution for previous MT actions, the [Cybers](https://zeithalt.github.io/r/cybers.html) attack [Timeless Desert](https://zeithalt.github.io/r/timeless_desert.html) and almost win the battle.
+In retribution for previous MT actions, the [Cybers](https://zeithalt.github.io/r/cybers.html) attack [Timeless Desert](https://zeithalt.github.io/r/timeless_desert.html) and almost win the battle.
 
 It all comes down to the very last minutes of the battle, and could've ended either way, but in the end the [Minds](https://zeithalt.github.io/r/minds.html) prevail and narrowly avoid losing their sacred land. 
 
