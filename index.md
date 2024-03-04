@@ -1,4 +1,25 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon0825"></a>Eon 825 - A Near Miss at Paradox Pass
+
+`⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) (combined faction forces)
+
+This event had its share of drama and controversy both before and during the battle.
+
+The defence was to happen right after the highly controversial [Blitz Battle of the A'as Forest](<https://zeithalt.github.io/t/#eon0818>), and the Minds were still under heavy criticism for their actions from Cybers and Silvans. 
+
+In the wake of the calls for ignoring the [Corruption outburst](<https://zeithalt.github.io/r/corruption.html>) and letting the [Paradox Pass](<https://zeithalt.github.io/r/paradox_pass.html>) fall victim to it, the Institute employed their propaganda and diplomatic resources to the maximum.
+
+As a result, the battle was long and tense as the factions persevered through the night. It was decided only in the few last minutes - as a victory for combined faction forces.
+
+It did not go unnoticed that both Cybers and Silvans refused to give the battle monetary support despite repeated MindTech calls for it and promise to cover the costs after the battle.
+
+The disaster of Corruption was avoided this time, but the Island still stands highly divided and many questions between the factions are left unresolved. 
+
+Some of them may bear a threat no less existential than the Corruption itself.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0825.png)
+
+
 ## <a id="eon0818"></a>Eon 818 - Blitz Battle of the A'as Forest
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
