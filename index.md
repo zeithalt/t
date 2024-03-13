@@ -1,9 +1,9 @@
 # <a id="top"></a>Zeithalt Timeline
-## <a id="eon0836"></a>Eon 836 - Successful landing at the Virtuara Outpost
+## <a id="eon0836"></a>Eon 836 - Successful Landing near Virtuara Outpost
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
-After a previous attempt more than [300 eons ago](<https://zeithalt.github.io/t/#eon0501>), many though that the sea attack on the [Virtuara Outpost](<https://zeithalt.github.io/r/virtuara_outpost.html>) could not succeed.
+After a previous attempt more than [300 eons ago](<https://zeithalt.github.io/t/#eon0501>), many thought that the sea attack on the [Virtuara Outpost](<https://zeithalt.github.io/r/virtuara_outpost.html>) could not succeed.
 
 However, [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) managed to surprise the defenders and land a significant force on the shores of the Outpost.
 
