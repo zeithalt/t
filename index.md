@@ -1,4 +1,21 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon0836"></a>Eon 836 - Successful landing at the Virtuara Outpost
+
+`⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
+
+After a previous attempt more than [300 eons ago](<https://zeithalt.github.io/t/#eon0501>), many though that the sea attack on the [Virtuara Outpost](<https://zeithalt.github.io/r/virtuara_outpost.html>) could not succeed.
+
+However, [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) managed to surprise the defenders and land a significant force on the shores of the Outpost.
+
+Once again, the Deltan forces supported by a smaller [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) force completely dominated the battlefield.
+
+Even though [Cybers](<https://zeithalt.github.io/r/cybers.html>) were prepared for the attack, got the help from their [Silvan](<https://zeithalt.github.io/r/silvans.html>) allies and hired the support of the [Cloudy Operatives](<https://zeithalt.github.io/r/cloudy_operatives.html>), the sheer number of Deltan troops was simply overwhelming.
+
+While the further plans of the Deltan commanders are unknown, the _Virtuara_ provides them an excellent strategic position to launch further attacks on the _Cybers'_ territory. It opens up such possibilities as a direct attack on [Admincity](<https://zeithalt.github.io/r/admincity.html>) or a push deeper into CI territory, cutting off their capital from the supply lines.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0836.png)
+
+
 ## <a id="eon0825"></a>Eon 825 - A Near Miss at Paradox Pass
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) (combined faction forces)
@@ -693,7 +710,7 @@ Immediately the fighting starts, [Minds](<https://zeithalt.github.io/r/minds.htm
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
-Attack by sea and at an unusual time - [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) clearly hoped for swift and surprising attack…
+Attack by sea and at an unusual time - [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) clearly hoped for a swift and surprising attack…
 
 However, [Cybers](<https://zeithalt.github.io/r/cybers.html>) were prepared for that: defences were ready, troops anticipated the attack.
 
@@ -701,7 +718,7 @@ Notable that in this battle [Protectores Silva](<https://zeithalt.github.io/r/pr
 
 [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) stayed neutral, making it a 1 vs 2 attack, with no land support.
 
-As a result - [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) successfully fends off the [Deltan](<https://zeithalt.github.io/r/deltans.html>) threat and wins _The Failed Landing near Virtuara Outpost_.
+As a result, [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) successfully fends off the [Deltan](<https://zeithalt.github.io/r/deltans.html>) threat and wins _The Failed Landing near Virtuara Outpost_.
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0501.png)
 
