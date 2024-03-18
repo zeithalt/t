@@ -1,4 +1,12 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon0842"></a>Eon 842 - MT and DC exchange lands
+
+`⌛ Event`
+
+[MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) and [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) exchange lands upon their mutual agreement:
+- [Virtuara Outpost](<https://zeithalt.github.io/r/virtuara_outpost.html>) is now under control of [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>).
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0842.png)
 ## <a id="eon0836"></a>Eon 836 - Successful Landing near Virtuara Outpost
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
