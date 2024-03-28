@@ -1,4 +1,13 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon0852"></a>Eon 852 - CI and MT exchange lands
+
+`⌛ Event`
+
+[Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) and [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) exchange lands upon their mutual agreement:
+- [Virtuara Outpost](<https://zeithalt.github.io/r/virtuara_outpost.html>) is now under control of [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>);
+- [Blue Screen Lagoon](<https://zeithalt.github.io/r/blue_screen_lagoon.html>) is now under control of [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0852.png)
 ## <a id="eon0843"></a>Eon 843 - The Fall of Admincity
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
