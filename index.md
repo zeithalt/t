@@ -1,4 +1,88 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon0895"></a>Eon 895 - CI and PS exchange lands
+
+`⌛ Event`
+
+[Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) and [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) exchange lands upon their mutual agreement:
+- [Cybertron Jungle](<https://zeithalt.github.io/r/cybertron_jungle.html>) is now back under control of [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>).
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0895.png)
+## <a id="eon0893"></a>Eon 893 - The Blunder on PEBKAC Peak
+
+`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
+
+Reports before the battle said that previous [Deltan](<https://zeithalt.github.io/r/deltans.html>) loss [in Admincity](<https://zeithalt.github.io/t/#eon0884>) was more or less planned event and that the bulk of their armies had already been focusing on a new target.
+
+Among the cited possible targets, the [Silvan](<https://zeithalt.github.io/r/silvans.html>) lands were mentioned the most. 
+
+The Silvans, however, were not idle too and prepared for the incoming attack by joining forces with [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) to set up the ambush in [Cybertron Jungle](<https://zeithalt.github.io/r/cybertron_jungle.html>) - the least defended land of the Silvans.
+
+This move seemingly confused Deltan leadership, who were getting conflicting reports about the situation in Cybertron Jungle and mistook it as preparation for future CI action against them.
+
+As a result, the Deltans attempted to outmaneuver Cyber forces by attacking the PEBKAC Peak instead and were greeted by a much larger force than they expected, which included their former allies - the [Minds](<https://zeithalt.github.io/r/minds.html>).
+
+It is generally agreed that the Deltans would have had a much easier time fighting [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) in the east instead, and many see this attack as a strategic blunder made by Deltan generals.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0893.png)
+
+
+## <a id="eon0889"></a>Eon 889 - CI and PS exchange lands
+
+`⌛ Event`
+
+[Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) and [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) exchange lands upon their mutual agreement:
+- [Cybertron Jungle](<https://zeithalt.github.io/r/cybertron_jungle.html>) is now under control of [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>).
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0889.png)
+## <a id="eon0884"></a>Eon 884 - The Rise of Admincity
+
+`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
+
+It's unknown what happened behind the scenes in this battle, but seemingly everyone has turned on [Deltans](<https://zeithalt.github.io/r/deltans.html>) that evening. 
+
+Even their allies, the [Minds](<https://zeithalt.github.io/r/minds.html>) - the very same army who took the city some 40 eons prior and ceded it to Deltans, were now seen among the attacking forces.
+
+The attacking army was massive and overwhelming. They were able to surround the city and breach the gates with the help from locals who happily greeted them on the streets. 
+
+Instead of a planned long siege, the attackers were able to take the city in a matter of hours, sending Deltan forces on the run.
+
+The citizens of Admincity celebrate on the streets, but the tensions on the island are only growing: it's unclear what the new [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) stance is, and the [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) still has the biggest army that could regroup and strike back at any time. 
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0884.png)
+
+
+## <a id="eon0874"></a>Eon 874 - The Daring Battle of Chaotic Plains
+
+`⚔️ Battle` won by Delta Collective
+
+[Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) repeats their [previous attempt](<https://zeithalt.github.io/t/#eon0856>) at the [Chaotic Plains](<https://zeithalt.github.io/r/chaotic_plains.html>) but this time with a bigger force and more an element of surprise.
+
+In this battle, the Deltan and Minds alliance stand strong together, however, contrary to the last battle good preparation and timing pays off for the Silvans.
+
+They algo get significant support from the [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) resulting in a much more balanced battle.
+
+In the end, the Deltans and Minds are able to hold their ground and push back the attackers, but many attribute their success to the bad diplomatic preparation by the Silvan leadership. 
+
+Their faction did not secure support of neither the [Fighters Guild](<https://zeithalt.github.io/r/fighters_guild.html>) nor the [Cloudy Operatives](<https://zeithalt.github.io/r/cloudy_operatives.html>) for this battle.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0874.png)
+
+
+## <a id="eon0864"></a>Eon 864 - The Victory of Peace Death Gorge
+
+`⚔️ Battle` won by Delta Collective (combined faction forces)
+
+The [Corruption](<https://zeithalt.github.io/r/corruption.html>) returns to [Peace Death Gorge](<https://zeithalt.github.io/r/peace_death_gorge.html>).
+
+The combined faction forces are quickly railed up together to temporarily abandon their differences and focus on the common threat. 
+
+As lately became the norm, the Corruption battle is long and brutal, but factions manage to push it back to its source. 
+
+The [Peace Death Gorge](<https://zeithalt.github.io/r/peace_death_gorge.html>) stands free from Corruption.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0864.png)
+
+
 ## <a id="eon0856"></a>Eon 856 - The Foolish Battle of Chaotic Plains
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
