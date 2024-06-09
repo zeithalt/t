@@ -1,4 +1,67 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon0924"></a>Eon 924 - Explosive Battle of Brickland Fortress
+
+`⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
+
+While Deltans were still recovering after the previous devastating loss, nobody expected any surprises from this battle. 
+
+The Deltans, however, managed to surprise everyone by launching a sudden attack on the [Brickland Fortress](<https://zeithalt.github.io/r/brickland_fortress.html>) - a stronghold of the [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>).
+
+At first, the battle played out more or less as expected, with the Deltans slowly but surely creeping their way though the initial advantage of the Silvan defenders.
+
+However, the last third of the battle saw a remarkable turn of events as the heavy use of bombs and artillery began on both sides.
+
+In the unprecedented shelling of the positions, the Deltans managed to break through the Silvan defenses and capture the fortress.
+
+In this battle, every little detail mattered and up until the very last minute it wasn't clear who would prevail.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0924.png)
+
+
+## <a id="eon0915"></a>Eon 915 - CI and PS exchange lands
+
+`⌛ Event`
+
+[Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) and [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) exchange lands upon their mutual agreement:
+- [Peace Death Gorge](<https://zeithalt.github.io/r/peace_death_gorge.html>) is now under control of [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>).
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0915.png)
+## <a id="eon0914"></a>Eon 914 - Resourceful Battle over Peace Death Gorge
+
+`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
+
+In this battle, an unexpected attack by the Cybers catches Deltans off guard in the [Peace Death Gorge](<https://zeithalt.github.io/r/peace_death_gorge.html>).
+
+Shortly after the battle breaks out, the cybers unveil their secret weapon: a massive special operation starts in which both sides spend truly enormous amounts of resources.
+
+By some estimates, the resources spent in this single battle are about the same as the total resources collected over the whole island in the last 90 eons.
+
+This can only be described by both sides of the conflict falling deep into the sunk cost fallacy. Several reports say that both CI and DC are now in a state of complete resource exhaustion. 
+
+However, this battle is not without winners, as there are rumours of some other factions making a fortune in the process by selling resources to the warring sides.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0914.png)
+
+
+## <a id="eon0910"></a>Eon 910 - CI and PS exchange lands
+
+`⌛ Event`
+
+[Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) and [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) exchange lands upon their mutual agreement:
+- [Cybertron Jungle](<https://zeithalt.github.io/r/cybertron_jungle.html>) is now under control of [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>).
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0910.png)
+## <a id="eon0903"></a>Eon 903 - The Corrupted Outpost
+
+`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
+
+Yet another time factions stand together to face a common enemy.
+
+And yet another time the victory only means the Corruption will return, stronger and more dangerous.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0903.png)
+
+
 ## <a id="eon0895"></a>Eon 895 - CI and PS exchange lands
 
 `⌛ Event`
