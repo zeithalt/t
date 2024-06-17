@@ -1,4 +1,25 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon0933"></a>Eon 933 - MT and PS exchange lands
+
+`⌛ Event`
+
+[MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) and [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) exchange lands upon their mutual agreement:
+- [Oblivion Mire](<https://zeithalt.github.io/r/oblivion_mire.html>) is now under control of [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>).
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0933.png)
+## <a id="eon0932"></a>Eon 932 - The 4th Outbreak in Synaxos Fields
+
+`⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) (combined faction forces)
+
+[Synaxos Fields](<https://zeithalt.github.io/r/synaxos_fields.html>) faced an unprecedented 4th outbreak of [Corruption](<https://zeithalt.github.io/r/corruption.html>).
+
+Despite floating rumours of factions plotting another huge conflict on the island, they were yet another time successful in uniting in the face of ever-growing threat.
+
+The combined forces have managed to contain the outbreak and prevent it from spreading further, narrowly avoiding a disaster that could have had catastrophic consequences for the whole island.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0932.png)
+
+
 ## <a id="eon0924"></a>Eon 924 - Explosive Battle of Brickland Fortress
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
