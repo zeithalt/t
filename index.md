@@ -1,4 +1,16 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon0941"></a>Eon 941 - CI and PS exchange lands
+
+`⌛ Event`
+
+[Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) and [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) exchange lands upon their mutual agreement:
+- [PEBKAC Peak](<https://zeithalt.github.io/r/pebkac_peak.html>) is now under control of [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>);
+- [Peace Death Gorge](<https://zeithalt.github.io/r/peace_death_gorge.html>) is now under control of [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>).
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0941.png)
+
+
+
 ## <a id="eon0933"></a>Eon 933 - MT and PS exchange lands
 
 `⌛ Event`
