@@ -1,4 +1,34 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon0955"></a>Eon 955 - Frustrating Battle of Mt. Pickles
+
+`⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>)
+
+Of course, frustration is a part of any battle, but this battle for [Mt.Pickles](<https://zeithalt.github.io/r/mt_pickles.html>) was particularly frustrating for [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) as they saw the complete turnaround of their former ally [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>).
+
+This battle marked a potential end of Minds' neutrality policy, with them clearly favouring Protectores Silva in this battle.
+
+Even though the Deltans were able to put up an impressive fight to retake (formerly) their land, the combined forces of all other factions were able to confidently defend it.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0955.png)
+
+
+## <a id="eon0946"></a>Eon 946 - Expensive Battle of Ares Gardens
+
+`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
+
+In a daring move, [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) has managed to take control of [Ares Gardens](<https://zeithalt.github.io/r/ares_gardens.html>) from [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>).
+
+The battle was unprecedentedly expensive from Cybers' point of view, and quite lucrative - from the Fighters Guild's perspective. 
+
+Some reports show that [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) treasury lost upwards of 7000 gold coins on the services of just four men.
+
+Another curious moment was the declared neutrality of [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) being extended to not supporting [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) defensive efforts in this battle - leaving a very bitter taste in the mouths of the former allies.
+
+In the end, the attackers outnumbered the defenders 2 to 1 and were hugely successful in this battle.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0946.png)
+
+
 ## <a id="eon0941"></a>Eon 941 - CI and PS exchange lands
 
 `⌛ Event`
