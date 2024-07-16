@@ -1,15 +1,55 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon0963"></a>Eon 963 - DC and BB exchange lands
+
+`⌛ Event`
+
+[Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) and [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) exchange lands upon their mutual agreement:
+- [Dev Null Marsh](<https://zeithalt.github.io/r/dev_null_marsh.html>) is now under control of [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>);
+- [Indigo Shore](<https://zeithalt.github.io/r/indigo_shore.html>) is now under control of [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>);
+- [Imperial Swamp](<https://zeithalt.github.io/r/imperial_swamp.html>) is now under control of [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>).
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0963.png)
+
+
+
+## <a id="eon0962"></a>Eon 962 - Hijacking of the Brickland Fortress
+
+`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
+
+[Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) joins [Silvan's](<https://zeithalt.github.io/r/silvans.html>) attack on [Brickland Fortress](<https://zeithalt.github.io/r/brickland_fortress.html>) and launches 
+an unexpectedly strong blitz attack. 
+
+The siege unfolds lightning-fast - with the use of heavy artillery and a successful special operation Cybers forces take the capital city of [Meadowridge](<https://zeithalt.github.io/r/meadowridge.html>) under their control. 
+
+Soon after the capture, the attacking side makes the decision to raze the city.
+
+Heavy fires and plundering begin on the streets of Meadowridge as the [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) forces retreat from the area.
+
+
+Civilians and bandits alike flee the city in terror as the Cybers go house by house and put all suspected Brothers' supporters to the sword, the torch and occasional blaster shot.
+
+Not too long after, the city lays in ruins.
+
+Ashes cover the empty shells of burnt out buildings like snow.
+
+Once bustling streets and markets stay empty... as if the city has become a mere ghost of its former self.
+
+Meadowridge will likely never have any supporters of the Brothers' again, but at what cost?
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0962.png)
+
+
 ## <a id="eon0959"></a>Eon 959 - Band of Brothers is founded
 
 `⌛ Event`
 
 After extensive and secretive preparations, the founders of the [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) finally come out in the open as the newest faction on the Island.
 
-A group of renown Deltan warriors - *INK*, *T*, *10funtov*, *40Ω* and *Кіт муркіт* set on a path to lead the faction.
+A group of renown Deltan warriors - *INK*, *T*, *Macmep*, *40* and *Кіт муркіт* set on a path to lead the faction.
 
 After a short, but destructive war between [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) and [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) the region of [Brickland Fortress](<https://zeithalt.github.io/r/brickland_fortress.html>) lay in ruins and disorder.
 
-A Deltan taskforce was sent out to clean up the unlawful mess here, and it seems they might have done their job a little bit too well... for they were able to bring order to this region and build a new administration here.
+A Deltan task force was sent out to clean up the unlawful mess here. It seems they might have done their job a little bit too well... for they were able to bring order to this region and build a new administration here.
 
 A one that has grown so powerful that it fell out of the control of the Deltan central power.
 
