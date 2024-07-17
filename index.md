@@ -1,4 +1,16 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon0964"></a>Eon 964 - CI and PS exchange lands
+
+`⌛ Event`
+
+[Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) and [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) exchange lands upon their mutual agreement:
+- [Brickland Fortress](<https://zeithalt.github.io/r/brickland_fortress.html>) is now under control of [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>);
+- [PEBKAC Peak](<https://zeithalt.github.io/r/pebkac_peak.html>) is now under control of [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>).
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0964.png)
+
+
+
 ## <a id="eon0963"></a>Eon 963 - DC and BB exchange lands
 
 `⌛ Event`
