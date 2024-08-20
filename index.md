@@ -1,4 +1,96 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon0997"></a>Eon 997 - Failed Siege of Purple Deeps
+
+`⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
+
+For the second time in the history of this great city, the [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) have successfully defended the [Purple Deeps](<https://zeithalt.github.io/r/purple_deeps.html>) from a siege by the [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>).
+
+And if the [first attempt, made 386 eons ago](<https://zeithalt.github.io/t/#eon0611>) was a weak effort and was easily fended off by Deltans, this time the Cybernetics Inc have shown a remarkable improvement in their tactics and coordination.
+
+The battle was well prepared by Cybers securing both [Cloudy Operatives](<https://zeithalt.github.io/r/cloudy_operatives.html>) and [Fighters Guild](<https://zeithalt.github.io/r/fighters_guild.html>) contracts at unprecedented rates; preparing the siege tactically and logistically; and even using the [CR Shards](<https://zeithalt.github.io/r/cr_shards.html>) to their advantage.
+
+But the Deltans were ready, the city was well fortified and the defenders were well prepared.
+
+The siege promised to be long and bloody, however, soon after its start both sides engaged in heavy artillery fire and the Cybers were eventually forced to retreat.
+
+Rumors say that by placing so high stakes on this battle, the Cybers have lost a significant portion of their resources and money and are now in a vulnerable position.
+
+However, it remains unclear if the Deltans will use this opportunity to strike back or they themselves are recovering after a costly victory.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0997.png)
+
+
+## <a id="eon0988"></a>Eon 988 - Recapture of Illusion Cliffs
+
+`⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
+
+After [the recent restoration efforts](<https://zeithalt.github.io/t/#eon0980>) in the [Illusion Cliffs](<https://zeithalt.github.io/r/illusion_cliffs.html>) made it possible, [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) are restoring order in the region.
+
+Despite having no significant tactical advantage, [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) for the third battle in a row show remarkable power and coordination, showing that it's sprawl on the map of Zeithalt is well deserved.
+
+Upon the recapture, [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) organizes the resettlement effort, greatly aided by continued support from the other factions. 
+
+The region is slowly returning to normal life, but lost lives and the destruction of the region will not be forgotten.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0988.png)
+
+
+## <a id="eon0980"></a>Eon 980 - Restoration of Illusion Cliffs is complete
+
+`⌛ Event`
+
+In another feat of global cooperation, the factions are able to fast-track the lengthy and costly process of restoring the [Illusion Cliffs](<https://zeithalt.github.io/r/illusion_cliffs.html>) region after the [Corruption Outburst](<https://zeithalt.github.io/r/cr_fallout.html>) of [Eon 969](./eon0969.html) and complete it in record time.
+
+The region is now declared safe to inhabit again and the population is slowly returning to their homes.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0980.png)
+## <a id="eon0977"></a>Eon 977 - Anti-CR Training in the Blue Screen Lagoon
+
+`⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
+
+For the first time ever [Cloudy Operatives](<https://zeithalt.github.io/r/cloudy_operatives.html>) do not pass on the attacking opportunity and for a good reason. 
+
+This military exercise serves as a way for factions to gather up new recruits after many have been lost in the recent [Corruption Outburst in the Illusion Cliffs](<https://zeithalt.github.io/t/#eon0969>).
+
+This battle also gave start to the [Restoration Project](<https://zeithalt.github.io/r/cr_restoration_project.html>) - many of those participating in the battle were swiftly redeployed to the affected areas to help with the recovery efforts.
+
+However, this battle did not escape it's own share of controversy as the [Cybers](<https://zeithalt.github.io/r/cybers.html>) were reportedly accused by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) of conspiring to set up an actual attack on their land during the training.
+
+In the end, it seems, the differences were settled (or have never been there) and the battle was fought as planned.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0977.png)
+
+
+## <a id="eon0969"></a>Eon 969 - Loss of the Illusion Cliffs
+
+`⚔️ Battle` won by [Corruption](<https://zeithalt.github.io/r/corruption.html>)
+
+Yet another [Corruption Outburst](<https://zeithalt.github.io/r/cr_fallout.html>) happens in [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) lands.
+
+Unfortunately, this time the combined faction forces were not able to contain it and [Illusion Cliffs](<https://zeithalt.github.io/r/illusion_cliffs.html>) region is lost to it.
+
+As the result of the ensuing _Corruption Fallout_ the region stands uninhabitable, many iconic sites like [Archives of Subconsciousness](<https://zeithalt.github.io/r/archives_of_subcon.html>) and [Cave of Mirrors](<https://zeithalt.github.io/r/cave_of_mirrors.html>) now lay in ruins, and the population has to flee their homes.
+
+Many notable warriors of all factions suffered severe Corruption poisoning and are now in critical condition.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0969.png)
+
+
+## <a id="eon0965"></a>Eon 965 - BB establish a capital in the Imperial Swamp
+
+`⌛ Event`
+
+A recent exchange with [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) leads to [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) establishing a capital in the [Imperial Swamp](<https://zeithalt.github.io/r/imperial_swamp.html>).
+
+After an unsuccessful attempt in [Brickland Fortress](<https://zeithalt.github.io/r/brickland_fortress.html>), the young faction is attempting a new start in a completely different location on the map.
+
+The political situation in this new region is different, but with new opportunities also come new challenges.
+
+It remains to be seen how the [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) will fare in their new home.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon0965.png)
+
+
 ## <a id="eon0964"></a>Eon 964 - CI and PS exchange lands
 
 `⌛ Event`
