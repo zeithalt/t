@@ -7,9 +7,11 @@ The [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) in 
 
 However, the battle is futile and uneventful, the effort of the attackes is ill-prepared and the defenders are well fortified. 
 
-The Cybers are able to stand their groud and keep the land they captured in the previous conquests.
+The Cybers are able to stand their groud and keep the land they captured in previous conquests.
 
-Overall the battle was borderline boring. The only bit of controversy is [Cloudy Operatives](<https://zeithalt.github.io/r/cloudy_operatives.html>) seemingly out of nowhere cancelling their auction on the Brothers and siding with Cybers instead. But even that goes largerly unnoticed.
+Overall the battle was borderline boring. 
+
+The only bit of controversy is [Cloudy Operatives](<https://zeithalt.github.io/r/cloudy_operatives.html>) seemingly out of nowhere cancelling their auction on the Brothers and siding with Cybers instead. But even that goes largerly unnoticed.
 
 It's expected that the Deltans might make their move soon, but it's unclear if they will be able to make a difference in the region.
 
