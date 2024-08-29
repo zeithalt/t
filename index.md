@@ -1,4 +1,27 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1007"></a>Eon 1007 - Futile Battle at Peace Death Gorge
+
+`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
+
+The [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) in close alliance with [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) have made a bold move to attack the [Peace Death Gorge](<https://zeithalt.github.io/r/peace_death_gorge.html>) in an attempt to take control of the region.
+
+However, the battle is futile and uneventful, the effort of the attackes is ill-prepared and the defenders are well fortified. 
+
+The Cybers are able to stand their groud and keep the land they captured in the previous conquests.
+
+Overall the battle was borderline boring. The only bit of controversy is [Cloudy Operatives](<https://zeithalt.github.io/r/cloudy_operatives.html>) seemingly out of nowhere cancelling their auction on the Brothers and siding with Cybers instead. But even that goes largerly unnoticed.
+
+It's expected that the Deltans might make their move soon, but it's unclear if they will be able to make a difference in the region.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1007.png)
+
+
+## <a id="eon1000"></a>Eon 1000 - Millennium Falcon is spotted
+
+`⌛ Event`
+
+The `🦅` [Millennium Falcon](<https://zeithalt.github.io/r/millennium_falcon.html>) is spotted in the skies and forests of Zeithalt Island, confirming the old myths about the legendary bird.
+
 ## <a id="eon0999"></a>Eon 999 - CI and PS exchange lands
 
 `⌛ Event`
