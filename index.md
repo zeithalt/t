@@ -1,5 +1,5 @@
 # <a id="top"></a>Zeithalt Timeline
-## <a id="eon1044"></a>Eon 1044 - The Victorious Battle of Chaotic Plains
+## <a id="eon1044"></a>Eon 1044 - The Influential Battle of Chaotic Plains
 
 `⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>)
 
