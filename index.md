@@ -1,4 +1,25 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1044"></a>Eon 1044 - The Victorious Battle of Chaotic Plains
+
+`⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>)
+
+In the lead-up to the battle of [Chaotic Plains](<https://zeithalt.github.io/r/chaotic_plains.html>), the [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) issued a public statement, calling out for unity and peaceful coexistence between factions.
+
+However, when their negotiation about a military exercise fell through, it seems that higher command of the Cybers changed their mind on the matter.
+
+While the Cybernetic forces themselves did not make a deep incursion into [Deltan](<https://zeithalt.github.io/r/deltans.html>) territory, they did provide support to the [Silvans](<https://zeithalt.github.io/r/silvans.html>) who did launch a full-scale invasion.
+
+The Protectores Silva forces progressed rapidly, meeting no significance resistance from the Deltans. Although it was expected that Deltans were hiding some ace up their sleeve for the last day of the battle, it seems that they were caught off guard by the magnitude of the attack, and their response never came.
+
+The Protectores Silva forces managed to secure the Chaotic Pains in their entirety and hold their ground till the of the battle - marking a significant victory for the Silvans.
+
+It was a long-anticipated victory, as Silvans made their first attempt to capture Chaotic Plains almost 200 eons ago and were very persistent in it. 
+
+On their 4th attempt, the region finally fell. 
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1044.png)
+
+
 ## <a id="eon1030"></a>Eon 1030 - Collaborative Battle at Dev Null Marsh
 
 `⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) (combined faction forces)
