@@ -1,4 +1,42 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1063"></a>Eon 1063 - Retaliation on Peace Death Gorge
+
+`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
+
+The long-awaited retaliation from the [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) came in the form of a massive assault on the [Peace Death Gorge](<https://zeithalt.github.io/r/peace_death_gorge.html>). The Deltans were determined to make a statement after a chain of attacks on their lands.
+
+They were able to take an early lead in the battle, securing almost the whole region by its midpoint. The Cybers, however, managed to regroup and launch a counter-offensive that turned the tide of the battle.
+
+This counter-attack was a well-coordinated effort that heavily relied on [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) support. 
+
+The counter-offensive slowly but surely picked up speed and pushed Deltans almost entirely out of the region. The Deltans tried to regroup and launch a counter-counter-offensive, but it was too late and not enough to influence the course of the battle.
+
+The Cybers managed to push the Deltans back and secure a victory in the Peace Death Gorge, defending the land once taken from the Deltans.
+
+Now, after both sides had unsuccessful attempts to capture each other's lands, the situation on the island remains tense and uncertain.
+
+However, the faction will soon have to put aside their differences and unite against a common enemy - the signs of imminent [Corruption](<https://zeithalt.github.io/r/corruption.html>) outburst started appearing in [Singularity Valley](<https://zeithalt.github.io/r/singularity_valley.html>).
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1063.png)
+
+
+## <a id="eon1052"></a>Eon 1052 - Silvan Siege of Purple Deeps
+
+`⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
+
+After a confident [recent victory](<https://zeithalt.github.io/t/#eon1044>) at Chaotic Plains, the joint forces of [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) and [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) were eager to continue their campaign. 
+
+The next target was the Deltan capital - [Purple Deeps](<https://zeithalt.github.io/r/purple_deeps.html>), an ambitious goal that nonetheless seemed achievable after the recent success.
+
+However, the Deltans were prepared. They had fortified their defenses and were ready to repel the invaders. The Silvans and Cybers launched a massive assault, but the Deltans managed to hold their ground and at no point lost control over the battle.
+
+In the end, attackers weren't even close to securing a victory in Purple Deeps, which hinted at a potential power shift in this war.
+
+With the [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) preparing their own retaliatory attack, everyone is eager to see how the situation will develop. 
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1052.png)
+
+
 ## <a id="eon1044"></a>Eon 1044 - The Influential Battle of Chaotic Plains
 
 `⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>)
