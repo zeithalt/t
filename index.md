@@ -1,4 +1,23 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1072"></a>Eon 1072 - The 2nd Battle of Corrupted Valley
+
+`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
+
+This battle was met with dark anticipation, as the signs of [Corruption](<https://zeithalt.github.io/r/corruption.html>) outburst in [Singularity Valley](<https://zeithalt.github.io/r/singularity_valley.html>) were becoming more and more apparent.
+
+Every Corruptuon outburst is a time of fear and uncertainty, and even more so when they happen during long-standing conflicts between factions. 
+
+The begging of the battle was marked by a massive surge of Corruption, which almost caught the defenders off guard. 
+
+Notably, the [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) and [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) were completely absent from the battlefield, leaving the rest of the Island's factions to deal with the thread on their own.
+
+The fight itself was brutal, the forces of the participating faction were barely enough to hold the spread of Corruption at bay. In the closing hours of the battle it was at its bleakest - to many of the defenders it seemed that the Corruption would consume the whole Valley.
+
+However, the combined forces persevered and the factions were victorious.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1072.png)
+
+
 ## <a id="eon1063"></a>Eon 1063 - Retaliation on Peace Death Gorge
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
