@@ -7,7 +7,7 @@ This battle was met with dark anticipation, as the signs of [Corruption](<https:
 
 Every Corruptuon outburst is a time of fear and uncertainty, and even more so when they happen during long-standing conflicts between factions. 
 
-The begging of the battle was marked by a massive surge of Corruption, which almost caught the defenders off guard. 
+The beginning of the battle was marked by a massive surge of Corruption, which almost caught the defenders off guard. 
 
 Notably, the [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) and [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) were completely absent from the battlefield, leaving the rest of the Island's factions to deal with the thread on their own.
 
@@ -1811,7 +1811,7 @@ Defense is successful and [Timeless Desert](<https://zeithalt.github.io/r/timele
 
 Rumors of unknown threat start spreading across Zeithalt Island.
 
-This date marks the begging of what would become the [Corruption](<https://zeithalt.github.io/r/corruption.html>) research.
+This date marks the beginning of what would become the [Corruption](<https://zeithalt.github.io/r/corruption.html>) research.
 ## <a id="eon0306"></a>Eon 306 - The Boring Battle
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
