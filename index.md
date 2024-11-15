@@ -1,4 +1,23 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1080"></a>Eon 1080 - Defeat at Peace Death Gorge
+
+`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
+
+The [Deltans](<https://zeithalt.github.io/r/deltans.html>) launched another assault on the [Peace Death Gorge](<https://zeithalt.github.io/r/peace_death_gorge.html>), determined to take back the region after their previous defeats.
+
+However, they were nowhere near as successful as they had hoped. The Cybers were prepared for the attack and managed to repel the Deltans with ease.
+
+The Deltans were unable to secure any significant gains and were forced to retreat in all of their several offensive operations.
+
+As has lately become the norm, the battlefield is dominated by the Silvan giant Nex, whose efforts are compared to those of a dozen regular soldiers. He, however, was heavily supported by the solid efforts of the Cybernetic forces.
+
+This battle was also marked by unprecedented spending of gold on mercenaries by both sides of the conflict. However, it does not seem to have influenced the outcome of the battle.
+
+Will the Deltans keep trying to take back the Peace Death Gorge, or will they admit that this land is lost to the Cybers for the foreseeable future?
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1080.png)
+
+
 ## <a id="eon1072"></a>Eon 1072 - The 2nd Battle of Corrupted Valley
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
