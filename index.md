@@ -1,4 +1,31 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1097"></a>Eon 1097 - The Battle of Corrupted Mind
+
+`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
+
+[Cybertron Jungle](<https://zeithalt.github.io/r/cybertron_jungle.html>) was the second land ever targeted by corruption on [eon 345](<https://zeithalt.github.io/t/#eon0345>). 
+
+Many things changed since then, but somehow, miraculously, this region stood peaceful for 750 eons - until now.
+
+This battle with [Corruption](<https://zeithalt.github.io/r/corruption.html>) was just as fierce as the first one, however, this time Cybers had enemy withing.
+
+The highest level official of the faction - NAIRO - was corrupted and turned against his own people. 
+
+Usually the victims of Corruption fall into a long coma, [some do not wake up from it](<https://zeithalt.github.io/r/mimb.html>), but this time was different - NAIRO was still able to control his body and mind, but his actions were not his own. 
+
+NAIRO was able to use his knowledge of the faction to sabotage their efforts and even control Corruption to some degree to direct many of its attacks at the weak spots of the defence.
+
+The battle was fierce and very close to the last hour, however, the factions were able to come together and defeat the Corruption once again.
+
+One notable event of this battle was Brothers and Deltans invading the southern part of the region, while Cybers were fighting Corruption in the north. This action was met with a lot of criticism from the Cybers, but in the end, it was exactly what tipped the scales in factions' favor.
+
+It's not entirely clear how NAIRO was finally stopped, but it is believed that the [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) had something to do with it. 
+
+As the most commonly known anecdote goes, someone accidentally woke up [Dino](<https://zeithalt.github.io/r/curious_dino.html>) from his nap and he angrily threw [his axe](<https://zeithalt.github.io/r/prehistoric_axe.html>), hitting NAIRO on the head and ending his delusion.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1097.png)
+
+
 ## <a id="eon1080"></a>Eon 1080 - Defeat at Peace Death Gorge
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
@@ -1769,7 +1796,7 @@ During the battle [MindTech Institute](<https://zeithalt.github.io/r/mindtech_in
 
 `⌛ Event`
 
-he preachers across Zeithalt once again speak of the dangers [Corruption](<https://zeithalt.github.io/r/corruption.html>) brings to the Island… this time [Cybertron Jungle](<https://zeithalt.github.io/r/cybertron_jungle.html>) is said to be affected.
+The preachers across Zeithalt once again speak of the dangers [Corruption](<https://zeithalt.github.io/r/corruption.html>) brings to the Island… this time [Cybertron Jungle](<https://zeithalt.github.io/r/cybertron_jungle.html>) is said to be affected.
 ## <a id="eon0338"></a>Eon 338 - The 3rd Battle of Mt. Pickles
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
