@@ -1,4 +1,23 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1111"></a>Eon 1111 - Desperate Battle of Peace Death Gorge
+
+`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
+
+It was the fourth (unsuccessful) attempt by [Deltan](<https://zeithalt.github.io/r/deltans.html>) factions to take back [Peace Death Gorge](<https://zeithalt.github.io/r/peace_death_gorge.html>) from [Cybers](<https://zeithalt.github.io/r/cybers.html>) in the last 100 eons.
+
+Desperate to push Cybers' forces away from their capital, the Deltans and Brothers used the geographical advantages of the region for a strong start of the battle. 
+
+At one point, it seemed that DC might even take a sizeable chunk of the region, but it all changed once the legendary Sylvan warrior, Nex, appeared on the battlefield.
+
+Accounts on the battle may differ, but what is known is that Nex almost single-handedly turned the tide of the battle and pushed the Deltans back to their starting positions.
+
+Despite deltan attacks picking up pace by the end of the battle, in the end, their territorial gains in the region were negligible and Cybers were able to hold the region under their control.
+
+With this daring attack, Deltans have rejected the ultimatum issued by the Cybers several eons prior, and it remains to be seen how Cybers will respond to this act of defiance.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1111.png)
+
+
 ## <a id="eon1097"></a>Eon 1097 - The Battle of Corrupted Mind
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
