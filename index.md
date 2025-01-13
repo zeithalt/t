@@ -1,4 +1,44 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1139"></a>Eon 1139 - The 4th Failed Siege of Purple Deeps
+
+`⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) 
+
+After a series of unsuccessful [Deltan](<https://zeithalt.github.io/r/deltans.html>) attempts at reclaiming their lands, the retaliation from [Cyber](<https://zeithalt.github.io/r/cybers.html>)-[Silvan](<https://zeithalt.github.io/r/silvans.html>) alliance finally came.
+
+The forces descended upon the [Purple Deeps](<https://zeithalt.github.io/r/purple_deeps.html>), aiming to catch the Deltan capital off guard and overwhelm the defences.
+
+The Deltans were prepared, however, and the battle was fierce. The Cybers and Silvans were able to surround the region from three sides, but the Deltans were able to hold their ground in the heart of the region and eventually push back.
+
+Unprecedented cooperation by Deltans and Brothers made this victory possible. 
+
+The Cybers and Silvans were forced to retreat, and the Deltans were able to hold their capital once again. 
+
+This victory was a significant morale boost for the Deltans, whose victories became rare lately, the most recent being the [previous defence of their capital](<https://zeithalt.github.io/t/#eon1052>) almost 100 eons ago.
+
+However, now it falls to the Deltans to prove if they can turn the tide of this war and go on the offensive.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1139.png)
+
+
+## <a id="eon1131"></a>Eon 1131 - A Close Call in Xyrclaox Watch
+
+`⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) (combined faction forces)
+
+The longer the [Corruption](<https://zeithalt.github.io/r/corruption.html>) is suppressed, the stronger it becomes.
+
+This is the simple truth that the Island has learned many times over.
+
+In anticipation of another outburst, this time in the [Xyrclaox Watch](<https://zeithalt.github.io/r/xyrclaox_watch.html>), the factions were divided by war and in a deep crisis.
+
+The location for this battle actually gave a glimmer of hope - the Watch being controlled by the MindTech Institute, the faction that has been somewhat neutral in the latest conflicts and could count on the support of both sides.
+
+The battle was fierce, and the Corruption was relentless, but the combined forces of the factions managed to hold the line and stop the spread of Corruption just in time for this outburst to subside.
+
+The Island can breathe a sigh of relief for now, but the Corruption always comes back.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1131.png)
+
+
 ## <a id="eon1123"></a>Eon 1123 - Another Failed Landing Near Virtuara Outpost
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
