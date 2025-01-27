@@ -19,6 +19,8 @@ The Deltans are eager to capitalize on their recent successes, however, they're 
 
 At the same time, the Cybers are taken aback by the sudden turn of events, and they're left to wonder if they can recover from these defeats to stop the Deltan advance.
 
+![Battle Map](https://zeithalt.github.io/t/m/eon1147.png)
+
 
 ## <a id="eon1139"></a>Eon 1139 - The 4th Failed Siege of Purple Deeps
 
