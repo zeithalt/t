@@ -1,4 +1,23 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1158"></a>Eon 1158 - Uphill Battle of Cybertron Jungle
+
+`⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
+
+Continuing their offensive momentum, the alliance of [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) and [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) attacks the [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) stronghold in the [Cybertron Jungle](<https://zeithalt.github.io/r/cybertron_jungle.html>).
+
+The Jungle is rather untouched by war region in the heartlands of Cybers' territory. This land has been a symbol of Cybers' power and unity for many eons, but the recent events may have shown that the faction is not as strong as it once was.
+
+The Brothers and Deltans were able to land a sizeable force on the ground, but they were quickly pushed back by the Cybers. What the attackers did not know is that the defence barely held together and the Cybers were on the brink of collapse.
+
+Because of that, this strong early stan-off caused uncertainty and even some voices of desperation on _both_ sides.
+
+Some might say that this battle was fought uphill both ways. The attackers were facing a strong defence, but the defenders were barely holding together. 
+
+This nervous uncertainty remained in the air until the very end of the battle, when the Cybers were finally overpowered and the attackers were able to take control of the key location in the region.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1158.png)
+
+
 ## <a id="eon1147"></a>Eon 1147 - The Hard-earned Return of Peace Death Gorge
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
