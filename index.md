@@ -18,7 +18,7 @@ However, even his immense strength was not enough to turn the tide against the s
 
 With little effective resistance, the attackers stormed the city, plundering and razing key structures. The fall of Admincity was more than a military loss for Cybers — it was a symbolic shift in power. 
 
-Is this the beginning of a new empire, a show of strength before eventual peace talks, or yet another sad page in the never ending conflict?
+Is this the beginning of a new empire, a show of strength before eventual peace talks, or yet another sad page in the never-ending conflict?
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon1176.png)
 
