@@ -1,4 +1,54 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1176"></a>Eon 1176 - The Burning of Admincity
+
+`⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
+
+
+The 2nd Siege of [Admincity](<https://zeithalt.github.io/r/admincity.html>) might become the pivotal battle in the ongoing war, as the formidable [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>), alongside the [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>), launched an audacious assault on the CI capital.
+
+Despite expectations of a brutal defense, CI’s resistance was surprisingly weaker than anticipated. 
+
+The defenders struggled to coordinate their forces, and key CI commanders were absent from the battlefield, leaving the city vulnerable to the meticulously planned amphibious landing by BB and DC. 
+
+The attacking forces executed their assault with near-perfect precision, securing a dominant position early on and maintaining control for the majority of the battle.
+
+A key moment in the battle was the reappearance of Nex, the legendary Protectores Silva juggernaut, whose presence alone was said to be equal to a dozen soldiers. 
+
+However, even his immense strength was not enough to turn the tide against the steady and overwhelming advance of Deltan factions.
+
+With little effective resistance, the attackers stormed the city, plundering and razing key structures. The fall of Admincity was more than a military loss for Cybers — it was a symbolic shift in power. 
+
+Is this the beginning of a new empire, a show of strength before eventual peace talks, or yet another sad page in the never ending conflict?
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1176.png)
+
+
+## <a id="eon1167"></a>Eon 1167 - The Strained Defense of Peace Death Gorge
+
+`⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) (combined faction forces)
+
+
+The battle of [Peace Death Gorge](<https://zeithalt.github.io/r/peace_death_gorge.html>) saw yet another vicious assault by [Corruption](<https://zeithalt.github.io/r/corruption.html>), threatening to consume one of the most contested regions in history. 
+
+Despite their history of dominance in the region, [Deltans](<https://zeithalt.github.io/r/deltans.html>) struggled due to the **notable absence of Cybernetics Inc (CI)**, which chose to abstain from aiding in the battle. Many suspect this reluctance was due to growing fears over DC’s expanding influence and its increasing control over critical territories. 
+
+Meanwhile, [Protectores Silva (PS)](<https://zeithalt.github.io/r/protectores_silva.html>) offered only minor reinforcements, as their famed leader **Nex** was missing from the battlefield, leading to a weaker-than-expected response from their faction.
+
+As the battle raged on, a rising controversy took shape. 
+
+Some factions voiced concerns about the emerging habit of weaponizing Corruption as a tactical tool or a political lever cross-factional conflicts.
+
+While DC successfully held their ground, the lack of collective factional unity raised questions about the true balance of power on Zeithalt.
+
+It seems that with each passing conflict, Deltan might continues to grow, leaving their opponents wary. 
+
+How long before the Deltan army aims at even bigger goals? 
+
+And when that day comes, will CI and PS regret standing idle at the Peace Death Gorge?
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1167.png)
+
+
 ## <a id="eon1158"></a>Eon 1158 - Uphill Battle of Cybertron Jungle
 
 `⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
