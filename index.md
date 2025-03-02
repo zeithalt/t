@@ -1,4 +1,23 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1186"></a>Eon 1186 - Retreat from Cybertron Jungle
+
+`⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
+
+More a military exercise than a serious battle, the Retreat from Cybertron Jungle was a strategic withdrawal by the [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) from the [Cybertron Jungle](<https://zeithalt.github.io/r/cybertron_jungle.html>).
+
+Following the alleged, but so far unconfirmed peace deal between the [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) and [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>), the CI forces were ordered to abandon the jungle and retreat to the nearby regions.
+
+It's reported that the recent [Burning of Admincity](<https://zeithalt.github.io/t/#eon1176>) was a serious morale hit for the Cybers, and the leadership decided to avoid further conflicts with the Brothers for the time being.
+
+The details of the peace deal are still unknown, but the BB forces were seen patrolling the jungle after the CI retreat, securing the area and preventing any other factions from taking advantage of the situation.
+
+Rumors say that Admincity handover might be on the horizon, but while CI and BB are seemingly peaceful, [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) and [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>), their respective allies, are still at odds.
+
+With the expected attack by Deltans coming any time soon, the situation on the Island remains tense and any possible peace treaties might turn out to be short-lived.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1186.png)
+
+
 ## <a id="eon1176"></a>Eon 1176 - The Burning of Admincity
 
 `⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
