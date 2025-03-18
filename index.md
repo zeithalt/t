@@ -18,6 +18,19 @@ But it did, and spectacularly so - the factions were able to fully clear the Cor
 ![Battle Map](https://zeithalt.github.io/t/m/eon1200.png)
 
 
+## <a id="eon1193"></a>Eon 1193 - TITLE
+
+`⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
+
+In this battle _Delta Collective_ were able to continue the streak of Deltan victories and take back control of [Chaotic Plains](<https://zeithalt.github.io/r/chaotic_plains.html>) from [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>).
+
+The [Deltans](<https://zeithalt.github.io/r/deltans.html>) shown strong and steady advancement, while [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) were not able to hold their ground under this pressure.
+
+The attacking forces were simply too strong and numerous on the battlefield, ensuring the confident victory for _Delta Collective_ who were finally able to win back _Chaotic Plains_ after [150 eons of Silvan rule in the region](<https://zeithalt.github.io/t/#eon1044>).
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1193.png)
+
+
 ## <a id="eon1186"></a>Eon 1186 - Retreat from Cybertron Jungle
 
 `⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
