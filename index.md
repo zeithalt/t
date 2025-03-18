@@ -18,7 +18,7 @@ But it did, and spectacularly so - the factions were able to fully clear the Cor
 ![Battle Map](https://zeithalt.github.io/t/m/eon1200.png)
 
 
-## <a id="eon1193"></a>Eon 1193 - TITLE
+## <a id="eon1193"></a>Eon 1193 - The Strong Battle of Chaotic Plains
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
