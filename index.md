@@ -1,4 +1,23 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1200"></a>Eon 1200 - Masterful Defence of Webified Hills
+
+`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
+
+As a treat of yet another [Corruption](<https://zeithalt.github.io/r/corruption.html>) outburst loomed over the [Webified Hills](<https://zeithalt.github.io/r/webified_hills.html>), the prospects were grim.
+
+With the faction being able to suppress the Corruption for several battles in a row (resulting in it growing stronger and stronger), it seemed that everyone was mentally ready to accept the defeat.
+
+However, as the battle started, the unlikely close collaboration between [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) and [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) emerged.
+
+With the novel strategic idea provided by the Band of Brothers, Cybers managed to refine their plans and turn the tide of the battle.
+
+The situation remained tense until the end of the second eon of the battle as few people could fully believe that the new strategy would actually work as it was shown on paper.
+
+But it did, and spectacularly so - the factions were able to fully clear the Corruption from the Webified Hills, giving new hope for the future Outbursts.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1200.png)
+
+
 ## <a id="eon1186"></a>Eon 1186 - Retreat from Cybertron Jungle
 
 `⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
@@ -1492,13 +1511,14 @@ The slow and frankly quite boring nature of this unsuccessful siege has granted 
 
 Several new [Bank of Zeithalt](<https://zeithalt.github.io/r/bank_of_zeithalt.html>) policies are in order following an attempt to save the economy of the Island.
 
-Many people suffered exposure to [Corruption](<https://zeithalt.github.io/r/corruption.html>) - fate of those with severe cases is unknown at the moment of writing.
+Many people suffered exposure to [Corruption](<https://zeithalt.github.io/r/corruption.html>) - the fate of those with severe cases is unknown at the moment of writing.
 
 Most of [Synaxos Fields](<https://zeithalt.github.io/r/synaxos_fields.html>) is currently in uninhabitable state, many places just dangerous to be in due to [Corruption Fallout](<https://zeithalt.github.io/r/cr_fallout.html>).
 
 For sure, factions will study the phenomenon in the coming eons to see if at least something is recoverable, but for now _Synaxos Fields_ is considered to be a dead land.
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0508.png)
+
 
 ## <a id="eon0506"></a>Eon 506 - Rebellion in the Desert
 
