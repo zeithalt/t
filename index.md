@@ -1,4 +1,19 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1209"></a>Eon 1209 - A Dumb Battle of Cerene Vale
+
+`⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
+
+This [Deltan](<https://zeithalt.github.io/r/deltans.html>) attack on [Cerene Vale](<https://zeithalt.github.io/r/cerene_vale.html>) was a complete disaster. 
+
+The attacking forces were not prepared for the strong defense of [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) and the battle was effectively lost in a matter of hours.
+
+Two tall [Silvan](<https://zeithalt.github.io/r/silvans.html>) giants stood above others - Nex and BPS, crushing all hopes and efforts of the _Deltan_ attackers. 
+
+The almost unanimous opinion of the foolish nature of this attack has granted the battle its name - _A Dumb Battle of Cerene Vale_.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1209.png)
+
+
 ## <a id="eon1200"></a>Eon 1200 - Masterful Defence of Webified Hills
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
