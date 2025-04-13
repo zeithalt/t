@@ -1,4 +1,52 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1227"></a>Eon 1227 - Lucrative Battle of Xyrclaox Watch
+
+`⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
+
+The newly formed [Cybernetic Imperium](<https://zeithalt.github.io/t/#eon1221>) delivers on its intention and attacks [Xyrclaox Watch](<https://zeithalt.github.io/r/xyrclaox_watch.html>) in a battle known as _Lucrative Battle of Xyrclaox Watch_.
+
+[MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>), not being involved in any battles for 384 eons was thought to be an easy target. However, an unexpected force has entered the battlefield and altered the balance of power.
+
+[Corruption](<https://zeithalt.github.io/r/corruption.html>) has been "woken up" by the heavy battle activity, and it resulted in the first ever human-made [outburst](<https://zeithalt.github.io/r/cr_fallout.html>) in the history of _Zeithalt_.
+
+This brought a lot of confusion and disorganization to the early part of the battle, hindering the attacking efforts to a great extent.
+
+It is not fully known why the Emperor NAIRO chose a neutral faction as his target, however prolonged stay of [Deltans](<https://zeithalt.github.io/r/deltans.html>) in former CI capital and their presence in battle are believed to be involved in the decision.
+
+The battle ended with a decisive victory for the _Minds_, but it came at literally a great cost. The paycheck from the [Fighters Guild](<https://zeithalt.github.io/r/fighters_guild.html>) it believed to be on par or even greater than the entire budgets of some factions. 
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1227.png)
+
+
+## <a id="eon1221"></a>Eon 1221 - NAIRO Declares Cybernetics Imperium
+
+`⌛ Event`
+
+In an unexpected turn of events, [NAIRO](<https://zeithalt.github.io/r/nairo.html>) declares the formation of the _Cybernetics Imperium_ and crowns himself as its Emperor. 
+
+This move received mixed reactions from the community, with some factions supporting the idea of a unified cybernetic empire, while others expressed concerns about the potential for tyranny and oppression.
+
+[MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) claiming to receive direct threats from [NAIRO](<https://zeithalt.github.io/r/nairo.html>) and his followers, dubbed the new government as "Headless Empire" due to the fact that _Cybers_ capital [Admincity](<https://zeithalt.github.io/r/admincity.html>) is still under control of [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>).
+
+At the same time, the [Deltan](<https://zeithalt.github.io/r/deltans.html>) factions congratulated [NAIRO](<https://zeithalt.github.io/r/nairo.html>) on his new title, and generally welcomed this change of direction.
+
+Other factions, namely [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) and [Cloudy Operatives](<https://zeithalt.github.io/r/cloudy_operatives.html>) took a rather cautious stance on the matter, not issuing any statements or comments on the new government. 
+
+It remains to be seen how this new development will affect the balance of power in the region and whether _NAIRO's_ Imperium will live up to its name.
+
+## <a id="eon1218"></a>Eon 1218 - Toothless Battle of Chaotic Plains
+
+`⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
+
+In a retaliation attempt, [Silvans](<https://zeithalt.github.io/r/silvans.html>) attacked [Chaotic Plains](<https://zeithalt.github.io/r/chaotic_plains.html>) but failed to capture the region from [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>).
+
+The battle was eerily similar to the [recent deltan attack](<https://zeithalt.github.io/t/#eon1209>) - a short burst of fighting at the beginning of a battle, followed by a long period of positional movement without much action.
+
+This battle is known as _Toothless Battle of Chaotic Plains_ due to the fact that [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) were not able to inflict any noticeable damage on the [Deltans](<https://zeithalt.github.io/r/deltans.html>) and were forced to retreat.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1218.png)
+
+
 ## <a id="eon1209"></a>Eon 1209 - A Dumb Battle of Cerene Vale
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
