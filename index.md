@@ -1,4 +1,88 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1266"></a>Eon 1266 - BB gives back control over Admincity to CI
+
+`⌛ Event`
+
+As the events of the _War on MindTech_ continue to unfold, the [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) have made another unexpected move by returning control over [Admincity](<https://zeithalt.github.io/r/admincity.html>) back to the [Cybernetic Imperium](<https://zeithalt.github.io/t/#eon1221>).
+
+This clearly indicated that the _Brothers_ had some kind of deal with [NAIRO](<https://zeithalt.github.io/r/nairo.html>) and the _Cybers_ for an attack opportunity against MindTech.
+
+With this change on the map, the old _Minds_ mockery of the _Headless Empire_ is now gone, but it seems that the _Minds_ themselves are now worthy of a similar title.
+
+With the continued loss of lands, it's rumoured that the faction experiences a vacuum of power, and the _Minds_ are now looking for a new leader to take charge of the faction.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1266.png)
+
+
+## <a id="eon1262"></a>Eon 1262 - Invasion of Synaxos Fields
+
+`⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
+
+While the expected place of the next _Brothers'_ attack was [Paradox Pass](<https://zeithalt.github.io/r/paradox_pass.html>), the allied Deltan and [Cybers](<https://zeithalt.github.io/r/cybers.html>)' forces instead launched a surprise attack on the [Synaxos Fields](<https://zeithalt.github.io/r/synaxos_fields.html>).
+
+This move essentially repeated the attack launched from Admincity a dozen eons ago, but this time even the attackers were surprised by the lack of preparation and the meek resistance from the defenders.
+
+While the _Brothers'_ performed a vast landing along the whole coastline of _Synaxos Fields_, the Cybers were able to launch a land invasion from their enclave in neighbouring [Xyrclaox Watch](<https://zeithalt.github.io/r/xyrclaox_watch.html>).
+
+It's worth noting that for several battles in a row, [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>)'s Nex remains the main contributor to the defences of the allied Minds-Silvans forces. But there's a limit to how much he can do alone, and even the mighty Nex was unable to hold the line against the overwhelming forces of the _Brothers_.
+
+The battle ended with yet another decisive victory for the _Brothers_, whose threat is now looming over the very MindTechs' capital city of [Neuropolis](<https://zeithalt.github.io/r/neuropolis.html>).
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1262.png)
+
+
+## <a id="eon1251"></a>Eon 1251 - Another Dark Night on the Mire
+
+`⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) (combines faction forces)
+
+A dark night fell onto the Mire, as the hundreds of eons old saying _"Corruption never attacks Protectores Silva"_ is finally proven wrong.
+
+The [Corruption](<https://zeithalt.github.io/r/corruption.html>) does attack [Oblivion Mire](<https://zeithalt.github.io/r/oblivion_mire.html>) and the [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) is forced to have the first-hand experience of dealing with the [corruption outburst](<https://zeithalt.github.io/r/cr_fallout.html>).
+
+The event results in devastation and chaos throughout the region, outbursts popping up everywhere, leaving no land safe from it.
+
+During a long and exhausting battle, the factions once again are able to unite against the common threat despite the mutual hatred and rivalry.
+
+At a great cost, yet another outburst is contained, but it only means one thing - the next one, even more powerful, is just around the corner.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1251.png)
+
+
+## <a id="eon1244"></a>Eon 1244 - Loss of Blue Screen Lagoon
+
+`⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
+
+As the major events of the _War on MindTech_ unfold, another part of the plan is put into action.
+
+The [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) forces, in a coordinated effort with the [Cybernetic Imperium](<https://zeithalt.github.io/t/#eon1221>), launch an attack on the [Blue Screen Lagoon](<https://zeithalt.github.io/r/blue_screen_lagoon.html>) in a battle known as _Loss of Blue Screen Lagoon_.
+
+It is believed that the attack was a part of the plan to take over the [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) and its assets, as well as to secure a foothold in the region.
+
+The former _Cybers'_ capital served as a launch point for the attack, and the [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) forces were able to quickly overwhelm the defenders.
+
+Despite a solid pushback from the defenders at the end of the battle, all they managed to do is to secure some parts of the Blue Screen - Paradox Pass border. However, a small portion of it still remained under the control of the _Brothers_ with a potential for future in-land attacks.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1244.png)
+
+
+## <a id="eon1236"></a>Eon 1236 - Fake Liberation of Admincity
+
+`⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
+
+In this battle, [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
+attempts to call for an uprising in [Admincity](<https://zeithalt.github.io/r/admincity.html>) against recently declared [Cybernetic Imperium](<https://zeithalt.github.io/t/#eon1221>).
+
+The former CI capital was still under control of [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>), for which the Imperium was mockingly dubbed as "Headless Empire".
+
+However, during the battle it became fully clear that this configuration of power was intentionally installed by CI/BB alliance, and the battle turned out a mere show of force to demonstrate the power of the new government.
+
+As a result of [NAIRO](<https://zeithalt.github.io/r/nairo.html>)'s firm grip on the faction, citizens of [Admincity](<https://zeithalt.github.io/r/admincity.html>) were not willing to join the uprising, and instead, many of them were actively fighting against the attackers.
+
+Any attempts to instigate a rebellion were swiftly crushed by the [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) forces, and the battle ended with a decisive victory for the _Brothers_.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1236.png)
+
+
 ## <a id="eon1227"></a>Eon 1227 - Lucrative Battle of Xyrclaox Watch
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
