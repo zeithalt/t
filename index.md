@@ -1,4 +1,63 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1286"></a>Eon 1286 - Fierce Defense of Paradox Pass
+
+`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
+
+The [Deltans](<https://zeithalt.github.io/r/deltans.html>) and [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) alliance pushed further east to attack the central land of the [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) - [Paradox Pass](<https://zeithalt.github.io/r/paradox_pass.html>).
+
+This region hadn't seen a major battle in a long time - [for 884 eons](<https://zeithalt.github.io/t/#eon0402>), in fact - and had been considered the peaceful heartland of the Institute.
+
+It was widely assumed that by this stage of the war, the Institute was on the verge of collapse and wouldn’t mount much of a defense.
+
+However, the defenders launched a highly effective and surprising special operation, outsmarting the attackers and gaining an early advantage in the battle.
+
+Such a strong defense was unexpected, and the attackers were forced to regroup to prevent their frontline from collapsing.
+
+The offensive shifted from a blitz to an endurance battle. While the defenders held their ground impressively, they were ultimately overwhelmed by the attackers' superior numbers.
+
+Time will tell whether this was the Institute's final spark of resistance - or the beginning of a strategic resurgence that could shift the course of the war.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1286.png)
+
+
+## <a id="eon1280"></a>Eon 1280 - Deltans Strike Back in Brickland Fortress
+
+`⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
+
+After a rather meek effort by the [Silvans](<https://zeithalt.github.io/r/silvans.html>) in their [previous attack](<https://zeithalt.github.io/t/#eon1272>), it was apparent that the [Deltans](<https://zeithalt.github.io/r/deltans.html>) would not pass up their chance to retaliate.
+
+The two Deltan factions launched a joint attack on the [Brickland Fortress](<https://zeithalt.github.io/r/brickland_fortress.html>) in an effort to get close to the Silvan capital once again.
+
+The defenders managed to organize a much stronger resistance than expected after their earlier failure. By some accounts, the armies showed roughly equal strength.
+
+This made alliances even more crucial, and here [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) could have played a major role.
+
+The Cybers struggled to maintain their friendly political stance toward both sides - Protectores Silva being their long-time ally, and Delta Collective a key supporter in the war against MindTech.
+
+In the end, the Cybers assisted the Silvan defense, but either failed - or perhaps chose not - to gather a sizeable enough force to turn the tide of battle.
+
+The result was a shaky Deltan victory. However, they managed to capture the southern part of the region and established a land connection to the Silvan capital.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1280.png)
+
+
+## <a id="eon1272"></a>Eon 1272 - Fruitless Attempt at Chaotic Plains
+
+`⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
+
+On the southern front, the [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) launched a daring attack on the [Chaotic Plains](<https://zeithalt.github.io/r/chaotic_plains.html>).
+
+It was a fairly expected move, with most estimating that Silvan forces were not numerous enough to take on the Deltan capital, leaving the Chaotic Plains as the only viable target.
+
+As a result, the defenders were fully prepared to meet the invaders. While the Silvan attack was bold and powerful as ever, it wasn't enough to overcome the Deltan defenses.
+
+On a side note, both [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) and [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) were not meaningfully represented on the battlefield, likely gathering their forces elsewhere for their own impending clash.
+
+This disappointing outcome of the battle left many on the Island wondering if the Silvans were overreaching by doing this assault relying mostly on their own strength.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1272.png)
+
+
 ## <a id="eon1268"></a>Eon 1268 - BB gives control over Blue Screen Lagoon to CI
 
 `⌛ Event`
@@ -754,6 +813,8 @@ Will the newest power on the Island bring peace to these war-torn lands? Or will
 Only the time will tell.
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0959.png)
+
+
 ## <a id="eon0955"></a>Eon 955 - Frustrating Battle of Mt. Pickles
 
 `⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>)
