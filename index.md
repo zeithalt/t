@@ -124,7 +124,7 @@ The battle ended with yet another decisive victory for the _Brothers_, whose thr
 
 ## <a id="eon1251"></a>Eon 1251 - Another Dark Night on the Mire
 
-`⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) (combines faction forces)
+`⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) (combined faction forces)
 
 A dark night fell onto the Mire, as the hundreds of eons old saying _"Corruption never attacks Protectores Silva"_ is finally proven wrong.
 
@@ -1520,7 +1520,7 @@ In this battle [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.h
 
 ## <a id="eon0626"></a>Eon 626 - The Enduring Defense of Webified Hills
 
-`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combines faction forces)
+`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
 
 Factions collectively stand strong against [Corruption](<https://zeithalt.github.io/r/corruption.html>) in the _Enduring Defence of Webified Hills_.
 
