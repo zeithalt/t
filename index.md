@@ -1,4 +1,19 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1293"></a>Eon 1293 - The 3rd Defense of Webified Hills
+
+`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
+
+The [Corruption](<https://zeithalt.github.io/r/corruption.html>) returned, e [Webified Hills](<https://zeithalt.github.io/r/webified_hills.html>), stronger than ever.
+
+Following the recent [Masterful Defence](<https://zeithalt.github.io/t/#eon1200>), all strategic plans were already in place and executed with near perfection once again.
+
+It's worth noting that the [Deltans](<https://zeithalt.github.io/r/deltans.html>) made up the majority of the fighting force on site, far outnumbering the region's actual owners - [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) - and providing crucial support.
+
+In the later hours of the battle, the defenders experienced a shortage of manpower. However, under the joint supervision of the [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) and the [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>), the fight against the _Corruption_ was won once more.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1293.png)
+
+
 ## <a id="eon1286"></a>Eon 1286 - Fierce Defense of Paradox Pass
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
