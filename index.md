@@ -3,7 +3,7 @@
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
 
-The [Corruption](<https://zeithalt.github.io/r/corruption.html>) returned, e [Webified Hills](<https://zeithalt.github.io/r/webified_hills.html>), stronger than ever.
+The [Corruption](<https://zeithalt.github.io/r/corruption.html>) returned, to the [Webified Hills](<https://zeithalt.github.io/r/webified_hills.html>), stronger than ever.
 
 Following the recent [Masterful Defence](<https://zeithalt.github.io/t/#eon1200>), all strategic plans were already in place and executed with near perfection once again.
 
