@@ -447,7 +447,7 @@ It was the fourth (unsuccessful) attempt by [Deltan](<https://zeithalt.github.io
 
 Desperate to push Cybers' forces away from their capital, the Deltans and Brothers used the geographical advantages of the region for a strong start of the battle. 
 
-At one point, it seemed that DC might even take a sizeable chunk of the region, but it all changed once the legendary Sylvan warrior, Nex, appeared on the battlefield.
+At one point, it seemed that DC might even take a sizeable chunk of the region, but it all changed once the legendary Silvan warrior, Nex, appeared on the battlefield.
 
 Accounts on the battle may differ, but what is known is that Nex almost single-handedly turned the tide of the battle and pushed the Deltans back to their starting positions.
 
