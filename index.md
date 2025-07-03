@@ -1,4 +1,27 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1313"></a>Eon 1313 - The 3rd Siege of Neuropolis
+
+`⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
+
+After successfully sabotaging the _Brothers'_ attempts to maneuver in the surrounding lands, the citizens of [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) still felt unsafe but remained hopeful nonetheless.
+
+All their hopes came crashing down when, early in the siege, a defensive special operation by the _Minds_ was intercepted by the _Deltans_ and turned to their advantage. Temporary chaos ensued among the MindTech defenders, causing them to quickly lose ground to the attackers.
+
+Despite suffering heavy losses, the defenders cleverly outmaneuvered the _Deltans_, grinding them down and disrupting their supply lines.
+
+MindTech planned an immense comeback, launching another, even larger special operation. Once again, until the last moment, it was unclear whether the defenders would pull it off. 
+
+However, they failed. The _Deltans_, with significant help from the [Cybernetic Imperium](<https://zeithalt.github.io/t/#eon1221>) loyalists, once again hijacked the special operation and turned it to their favour.
+
+This was a heavy blow to the _Minds_. Reportedly, the Council of Minds sat in stunned silence for several hours before ordering the evacuation of the city.
+
+Shortly after, the _Brothers_, led by their leader [T](<https://zeithalt.github.io/r/t.html>), breached the inner walls of the city, torching and plundering everything in sight. There were reports of attacks on fleeing civilians, looting, and the destruction of iconic Neuropolis landmarks.
+
+As the city burned and MindTech people suffered, the _Deltans_ were seen celebrating their victory, dividing the riches of the ancient city among themselves and their _Cybernetics_ supporters.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1313.png)
+
+
 ## <a id="eon1306"></a>Eon 1306 - Stoic Defense of A'as Forest
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
