@@ -7,13 +7,13 @@
 
 The unexpected assault by Deltan forces marked a turning point - this was the first time the [Cloudy Operatives](<https://zeithalt.github.io/r/cloudy_operatives.html>) had been attacked since their founding.
 
-Caught between the [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) to the south and the [Corruption](<https://zeithalt.github.io/r/corruption.html>) to the north, the defenders suffered heavy losses and were forced to retreat early.
+Caught between the _Delta Collective_ to the south and the [Corruption](<https://zeithalt.github.io/r/corruption.html>) to the north, the defenders suffered heavy losses and were forced to retreat early.
 
 In a last-ditch effort, they poured every resource into a counteroffensive - emptying the faction’s treasury and deploying all available forces - but it was not enough to stop the Deltan advance.
 
 The Fall of the Desert marked the end of an era, as the Deltans sealed the fate of the island’s old way of life.
 
-The immediate aftermath was devastating: the [Cloudy Operatives](<https://zeithalt.github.io/r/cloudy_operatives.html>) were all but annihilated, their faction put on the brink of extinction.
+The immediate aftermath was devastating: the _Cloudy Operatives_ were all but annihilated, their faction put on the brink of extinction.
 
 The Valkyrie Spec Ops - once the core of the [Fighters Guild](<https://zeithalt.github.io/r/fighters_guild.html>) based in [The Nest](<https://zeithalt.github.io/r/the_nest.html>) - lost their headquarters and were disbanded.
 
