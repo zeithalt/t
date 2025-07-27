@@ -1,4 +1,40 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1334"></a>Eon 1334 - Calculated Defense of Cybertron Jungle
+
+`⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) (combined faction forces)
+
+After a cycle of devastating battles, an old force once again loomed over the Island.
+
+The [Corruption](<https://zeithalt.github.io/r/corruption.html>) outburst began swiftly spreading across the [Cybertron Jungle](<https://zeithalt.github.io/r/cybertron_jungle.html>), engulfing the entire region.
+
+However, the [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) already had detailed battle plans in place.
+
+They identified several key locations that were crucial for the defense of the region, and the majority of the battle was devoted to holding these lands until the final push back.
+
+At several points, these key locations were under threat of falling to _Corruption_; however, overall, the plan was executed flawlessly, and the defenders were able to hold the line.
+
+The battle ended with a decisive victory for the _Brothers_, who were able to push back the Corruption and secure the majority of the region.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1334.png)
+
+
+## <a id="eon1327"></a>Eon 1327 - Effortless Recapture of Neuropolis
+
+`⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
+
+Although the _MindTech Institute_ was well-prepared for this battle, it soon became clear that the [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) had no intention of fighting for [Neuropolis](<https://zeithalt.github.io/r/neuropolis.html>).
+
+At the first sign of an attack, the _Brothers'_ forces quickly retreated, leaving the city to the defenders.
+
+Occasional skirmishes were reported, but these were mostly cover for the _Brothers_ to ensure a safe retreat for their forces.
+
+In a notable event, the [Fighters Guild](<https://zeithalt.github.io/r/fighters_guild.html>) used their outpost, acquired during the [siege of Neuropolis](<https://zeithalt.github.io/t/#eon1313>), to get a head start on the defenders. They even held almost a third of the city for a time, but eventually ceded it to the _Minds_ as well.
+
+In the end, despite having fallen just a dozen eons prior, the city was recaptured by the _Minds_ with little effort and next to no casualties.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1327.png)
+
+
 ## <a id="eon1320"></a>Eon 1320 - The Fall of Timeless Desert
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
