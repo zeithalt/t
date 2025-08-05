@@ -20,6 +20,19 @@ Warriors compromised their positions, missed their targets, and overall fought i
 ![Battle Map](https://zeithalt.github.io/t/m/eon1343.png)
 
 
+## <a id="eon1341"></a>Eon 1341 - CI transfers control over Paradox Pass to MT
+
+`⌛ Event`
+
+[Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) transfers its portion of the [Paradox Pass](<https://zeithalt.github.io/r/paradox_pass.html>) region to the [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>).
+
+This move solidifies the recent shift within Cybernetics Inc following the fall of the [Cybernetic Imperium](<https://zeithalt.github.io/t/#eon1221>) and seems to indicate that the two factions are on a course towards reconciliation.
+
+The majority of _Paradox Pass_ is now back under the control of the _MindTech Institute_.
+
+While it's worth noting that a third of the land is still occupied by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) forces, they are now almost fully encircled by the _MindTech_ army in this region.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1341.png)
 ## <a id="eon1334"></a>Eon 1334 - Calculated Defense of Cybertron Jungle
 
 `⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) (combined faction forces)
