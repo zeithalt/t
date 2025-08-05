@@ -1,4 +1,25 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1343"></a>Eon 1343 - Sneezing Battle of Synaxos Fields
+
+`⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
+
+The [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) began its carefully planned recapture of [Synaxos Fields](<https://zeithalt.github.io/r/synaxos_fields.html>) at night; however, it quickly became apparent that the [Deltans](<https://zeithalt.github.io/r/deltans.html>) did not plan to defend this land, [much like in a previous encounter](<https://zeithalt.github.io/t/#eon1327>).
+
+Quickly losing ground, their forces mounted a minimal defense, only to ensure safe passage for their retreating troops.
+
+However, the battle's unexpected complication was a [Corruption](<https://zeithalt.github.io/r/corruption.html>) outburst spilling over from the nearby lands of [Xyrclaox Watch](<https://zeithalt.github.io/r/xyrclaox_watch.html>).
+
+Although the _Minds_ seemed prepared for this, the _Corruption_ broke through their defense line and began to spread rapidly across the _Synaxos Fields_.
+
+While there were reports of the [Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) aiding the _Corruption_ early on - with some speculating they were responsible for the breach - Deltans from both factions were also seen helping the Minds fight against it.
+
+One of the most notable events of the battle was an outbreak of a mutated [Mimps Virus](<https://zeithalt.github.io/r/mimps.html>) variant that caused excessive sneezing across the battlefield.
+
+Warriors compromised their positions, missed their targets, and overall fought inefficiently due to frequent and violent sneezing fits.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1343.png)
+
+
 ## <a id="eon1334"></a>Eon 1334 - Calculated Defense of Cybertron Jungle
 
 `⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) (combined faction forces)
