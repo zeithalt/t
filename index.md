@@ -1,4 +1,25 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1354"></a>Eon 1354 - An Oopsie in Ares Garden
+
+`⚔️ Battle` won by [Corruption](<https://zeithalt.github.io/r/corruption.html>)
+
+Just as the Deltans seemed to be ready to launch their offensive, a calamity struck in [Ares Garden](<https://zeithalt.github.io/r/ares_gardens.html>).
+
+An odd silence had fallen along the Deltan borders, and their rivals, especially the [Silvans](<https://zeithalt.github.io/r/silvans.html>), braced for an attack... that never came.
+
+Soon, reports clarified the situation - an unpredicted [CR Outburst](<https://zeithalt.github.io/r/cr_fallout.html>) had occurred in _Ares Garden_.
+
+The Deltan forces, caught completely off guard, scrambled to organize a defense, frantically calling for aid from other factions.
+
+This chaotic organization took significant time, allowing the _Corruption_ to take a firm hold and spread rapidly through the land.
+
+A final, desperate pushback from the allied factions managed to secure the border between _Ares_ and the Deltan capital, but it was nowhere near enough to contain the _Corruption_.
+
+For the first time in 370 eons, the _Zeithalt Island_ was thrown into a [state of emergency](<https://zeithalt.github.io/r/boz_state_of_emergency.html>). Several notable warriors fell victim to [CR sickness](<https://zeithalt.github.io/r/cr_sickness.html>) and massive casualties and displacement were recorded among the civilian population of _Ares Garden_.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1354.png)
+
+
 ## <a id="eon1343"></a>Eon 1343 - Sneezing Battle of Synaxos Fields
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
