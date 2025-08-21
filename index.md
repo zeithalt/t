@@ -1,5 +1,6 @@
 # <a id="top"></a>Zeithalt Timeline
 ## <a id="eon1354"></a>Eon 1354 - An Oopsie in Ares Garden
+`2025-08-11`
 
 `⚔️ Battle` won by [Corruption](<https://zeithalt.github.io/r/corruption.html>)
 
@@ -21,6 +22,7 @@ For the first time in 370 eons, the _Zeithalt Island_ was thrown into a [state o
 
 
 ## <a id="eon1343"></a>Eon 1343 - Sneezing Battle of Synaxos Fields
+`2025-07-31`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -42,6 +44,7 @@ Warriors compromised their positions, missed their targets, and overall fought i
 
 
 ## <a id="eon1341"></a>Eon 1341 - CI transfers control over Paradox Pass to MT
+`2025-07-29`
 
 `⌛ Event`
 
@@ -55,6 +58,7 @@ While it's worth noting that a third of the land is still occupied by [Band of B
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon1341.png)
 ## <a id="eon1334"></a>Eon 1334 - Calculated Defense of Cybertron Jungle
+`2025-07-22`
 
 `⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) (combined faction forces)
 
@@ -74,6 +78,7 @@ The battle ended with a decisive victory for the _Brothers_, who were able to pu
 
 
 ## <a id="eon1327"></a>Eon 1327 - Effortless Recapture of Neuropolis
+`2025-07-15`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -91,6 +96,7 @@ In the end, despite having fallen just a dozen eons prior, the city was recaptur
 
 
 ## <a id="eon1320"></a>Eon 1320 - The Fall of Timeless Desert
+`2025-07-08`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -116,6 +122,7 @@ As dust and ash settle over the desert ruins, one question remains - was this th
 
 
 ## <a id="eon1313"></a>Eon 1313 - The 3rd Siege of Neuropolis
+`2025-07-01`
 
 `⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
 
@@ -139,6 +146,7 @@ As the city burned and MindTech people suffered, the _Deltans_ were seen celebra
 
 
 ## <a id="eon1306"></a>Eon 1306 - Stoic Defense of A'as Forest
+`2025-06-24`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -158,6 +166,7 @@ Controversially, some of the [Brothers](<https://zeithalt.github.io/r/brothers.h
 
 
 ## <a id="eon1293"></a>Eon 1293 - The 3rd Defense of Webified Hills
+`2025-06-11`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
 
@@ -173,6 +182,7 @@ In the later hours of the battle, the defenders experienced a shortage of manpow
 
 
 ## <a id="eon1286"></a>Eon 1286 - Fierce Defense of Paradox Pass
+`2025-06-04`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -194,6 +204,7 @@ Time will tell whether this was the Institute's final spark of resistance - or t
 
 
 ## <a id="eon1280"></a>Eon 1280 - Deltans Strike Back in Brickland Fortress
+`2025-05-29`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -215,6 +226,7 @@ The result was a shaky Deltan victory. However, they managed to capture the sout
 
 
 ## <a id="eon1272"></a>Eon 1272 - Fruitless Attempt at Chaotic Plains
+`2025-05-21`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -232,6 +244,7 @@ This disappointing outcome of the battle left many on the Island wondering if th
 
 
 ## <a id="eon1268"></a>Eon 1268 - BB gives control over Blue Screen Lagoon to CI
+`2025-05-17`
 
 `⌛ Event`
 
@@ -249,6 +262,7 @@ It remains to be seen what are the true causes and intentions of all these chang
 
 
 ## <a id="eon1266"></a>Eon 1266 - BB gives back control over Admincity to CI
+`2025-05-15`
 
 `⌛ Event`
 
@@ -264,6 +278,7 @@ With the continued loss of lands, it's rumoured that the faction experiences a v
 
 
 ## <a id="eon1262"></a>Eon 1262 - Invasion of Synaxos Fields
+`2025-05-11`
 
 `⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
 
@@ -281,6 +296,7 @@ The battle ended with yet another decisive victory for the _Brothers_, whose thr
 
 
 ## <a id="eon1251"></a>Eon 1251 - Another Dark Night on the Mire
+`2025-04-30`
 
 `⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) (combined faction forces)
 
@@ -298,6 +314,7 @@ At a great cost, yet another outburst is contained, but it only means one thing 
 
 
 ## <a id="eon1244"></a>Eon 1244 - Loss of Blue Screen Lagoon
+`2025-04-23`
 
 `⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
 
@@ -315,6 +332,7 @@ Despite a solid pushback from the defenders at the end of the battle, all they m
 
 
 ## <a id="eon1236"></a>Eon 1236 - Fake Liberation of Admincity
+`2025-04-15`
 
 `⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
 
@@ -333,6 +351,7 @@ Any attempts to instigate a rebellion were swiftly crushed by the [Band of Broth
 
 
 ## <a id="eon1227"></a>Eon 1227 - Lucrative Battle of Xyrclaox Watch
+`2025-04-06`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -352,6 +371,7 @@ The battle ended with a decisive victory for the _Minds_, but it came at literal
 
 
 ## <a id="eon1221"></a>Eon 1221 - NAIRO Declares Cybernetics Imperium
+`2025-03-31`
 
 `⌛ Event`
 
@@ -368,6 +388,7 @@ Other factions, namely [Protectores Silva](<https://zeithalt.github.io/r/protect
 It remains to be seen how this new development will affect the balance of power in the region and whether _NAIRO's_ Imperium will live up to its name.
 
 ## <a id="eon1218"></a>Eon 1218 - Toothless Battle of Chaotic Plains
+`2025-03-28`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -381,6 +402,7 @@ This battle is known as _Toothless Battle of Chaotic Plains_ due to the fact tha
 
 
 ## <a id="eon1209"></a>Eon 1209 - A Dumb Battle of Cerene Vale
+`2025-03-19`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -396,6 +418,7 @@ The almost unanimous opinion of the foolish nature of this attack has granted th
 
 
 ## <a id="eon1200"></a>Eon 1200 - Masterful Defence of Webified Hills
+`2025-03-10`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
 
@@ -415,6 +438,7 @@ But it did, and spectacularly so - the factions were able to fully clear the Cor
 
 
 ## <a id="eon1193"></a>Eon 1193 - The Strong Battle of Chaotic Plains
+`2025-03-03`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -428,6 +452,7 @@ The attacking forces were simply too strong and numerous on the battlefield, ens
 
 
 ## <a id="eon1186"></a>Eon 1186 - Retreat from Cybertron Jungle
+`2025-02-24`
 
 `⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
 
@@ -447,6 +472,7 @@ With the expected attack by Deltans coming any time soon, the situation on the I
 
 
 ## <a id="eon1176"></a>Eon 1176 - The Burning of Admincity
+`2025-02-14`
 
 `⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
 
@@ -471,6 +497,7 @@ Is this the beginning of a new empire, a show of strength before eventual peace 
 
 
 ## <a id="eon1167"></a>Eon 1167 - The Strained Defense of Peace Death Gorge
+`2025-02-05`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) (combined faction forces)
 
@@ -497,6 +524,7 @@ And when that day comes, will CI and PS regret standing idle at the Peace Death 
 
 
 ## <a id="eon1158"></a>Eon 1158 - Uphill Battle of Cybertron Jungle
+`2025-01-27`
 
 `⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
 
@@ -516,6 +544,7 @@ This nervous uncertainty remained in the air until the very end of the battle, w
 
 
 ## <a id="eon1147"></a>Eon 1147 - The Hard-earned Return of Peace Death Gorge
+`2025-01-16`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -539,6 +568,7 @@ At the same time, the Cybers are taken aback by the sudden turn of events, and t
 
 
 ## <a id="eon1139"></a>Eon 1139 - The 4th Failed Siege of Purple Deeps
+`2025-01-08`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) 
 
@@ -560,6 +590,7 @@ However, now it falls to the Deltans to prove if they can turn the tide of this 
 
 
 ## <a id="eon1131"></a>Eon 1131 - A Close Call in Xyrclaox Watch
+`2024-12-31`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) (combined faction forces)
 
@@ -579,6 +610,7 @@ The Island can breathe a sigh of relief for now, but the Corruption always comes
 
 
 ## <a id="eon1123"></a>Eon 1123 - Another Failed Landing Near Virtuara Outpost
+`2024-12-23`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -598,6 +630,7 @@ It is widely believed that the response to these relentless (yet unsuccessful) D
 
 
 ## <a id="eon1111"></a>Eon 1111 - Desperate Battle of Peace Death Gorge
+`2024-12-11`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -617,6 +650,7 @@ With this daring attack, Deltans have rejected the ultimatum issued by the Cyber
 
 
 ## <a id="eon1097"></a>Eon 1097 - The Battle of Corrupted Mind
+`2024-11-27`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
 
@@ -642,6 +676,7 @@ It's not entirely clear how NAIRO was finally stopped, but it is believed that t
 
 
 ## <a id="eon1080"></a>Eon 1080 - Defeat at Peace Death Gorge
+`2024-11-10`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -661,6 +696,7 @@ Will the Deltans keep trying to take back the Peace Death Gorge, or will they ad
 
 
 ## <a id="eon1072"></a>Eon 1072 - The 2nd Battle of Corrupted Valley
+`2024-11-02`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
 
@@ -680,6 +716,7 @@ However, the combined forces persevered and the factions were victorious.
 
 
 ## <a id="eon1063"></a>Eon 1063 - Retaliation on Peace Death Gorge
+`2024-10-24`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -701,6 +738,7 @@ However, the faction will soon have to put aside their differences and unite aga
 
 
 ## <a id="eon1052"></a>Eon 1052 - Silvan Siege of Purple Deeps
+`2024-10-13`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -718,6 +756,7 @@ With the [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>
 
 
 ## <a id="eon1044"></a>Eon 1044 - The Influential Battle of Chaotic Plains
+`2024-10-05`
 
 `⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>)
 
@@ -739,6 +778,7 @@ On their 4th attempt, the region finally fell.
 
 
 ## <a id="eon1030"></a>Eon 1030 - Collaborative Battle at Dev Null Marsh
+`2024-09-21`
 
 `⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) (combined faction forces)
 
@@ -752,6 +792,7 @@ This deep collaboration between factions has been a pleasant surprise to many, a
 
 
 ## <a id="eon1023"></a>Eon 1023 - The Explosive Battle of Chaotic Plains
+`2024-09-14`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -771,6 +812,7 @@ One of the few interesting political highlights is that [MindTech Institute](<ht
 
 
 ## <a id="eon1015"></a>Eon 1015 - Divine Battle of Ares Gardens
+`2024-09-06`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -786,6 +828,7 @@ This battle will also be remembered as the first ever case of the [King of Zeith
 
 
 ## <a id="eon1007"></a>Eon 1007 - Futile Battle at Peace Death Gorge
+`2024-08-29`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -805,12 +848,14 @@ It's expected that the Deltans might make their move soon, but it's unclear if t
 
 
 ## <a id="eon1000"></a>Eon 1000 - Millennium Falcon is spotted
+`2024-08-22`
 
 `⌛ Event`
 
 The `🦅` [Millennium Falcon](<https://zeithalt.github.io/r/millennium_falcon.html>) is spotted in the skies and forests of Zeithalt Island, confirming the old myths about the legendary bird.
 
 ## <a id="eon0999"></a>Eon 999 - CI and PS exchange lands
+`2024-08-21`
 
 `⌛ Event`
 
@@ -822,6 +867,7 @@ The `🦅` [Millennium Falcon](<https://zeithalt.github.io/r/millennium_falcon.h
 
 
 ## <a id="eon0997"></a>Eon 997 - Failed Siege of Purple Deeps
+`2024-08-19`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -843,6 +889,7 @@ However, it remains unclear if the Deltans will use this opportunity to strike b
 
 
 ## <a id="eon0988"></a>Eon 988 - Recapture of Illusion Cliffs
+`2024-08-10`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -858,6 +905,7 @@ The region is slowly returning to normal life, but lost lives and the destructio
 
 
 ## <a id="eon0980"></a>Eon 980 - Restoration of Illusion Cliffs is complete
+`2024-08-02`
 
 `⌛ Event`
 
@@ -867,6 +915,7 @@ The region is now declared safe to inhabit again and the population is slowly re
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0980.png)
 ## <a id="eon0977"></a>Eon 977 - Anti-CR Training in the Blue Screen Lagoon
+`2024-07-30`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -884,6 +933,7 @@ In the end, it seems, the differences were settled (or have never been there) an
 
 
 ## <a id="eon0969"></a>Eon 969 - Loss of the Illusion Cliffs
+`2024-07-22`
 
 `⚔️ Battle` won by [Corruption](<https://zeithalt.github.io/r/corruption.html>)
 
@@ -899,6 +949,7 @@ Many notable warriors of all factions suffered severe Corruption poisoning and a
 
 
 ## <a id="eon0965"></a>Eon 965 - BB establish a capital in the Imperial Swamp
+`2024-07-18`
 
 `⌛ Event`
 
@@ -914,6 +965,7 @@ It remains to be seen how the [Band of Brothers](<https://zeithalt.github.io/r/b
 
 
 ## <a id="eon0964"></a>Eon 964 - CI and PS exchange lands
+`2024-07-17`
 
 `⌛ Event`
 
@@ -926,6 +978,7 @@ It remains to be seen how the [Band of Brothers](<https://zeithalt.github.io/r/b
 
 
 ## <a id="eon0963"></a>Eon 963 - DC and BB exchange lands
+`2024-07-16`
 
 `⌛ Event`
 
@@ -939,6 +992,7 @@ It remains to be seen how the [Band of Brothers](<https://zeithalt.github.io/r/b
 
 
 ## <a id="eon0962"></a>Eon 962 - Hijacking of the Brickland Fortress
+`2024-07-15`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -966,6 +1020,7 @@ Meadowridge will likely never have any supporters of the Brothers' again, but at
 
 
 ## <a id="eon0959"></a>Eon 959 - Band of Brothers is founded
+`2024-07-12`
 
 `⌛ Event`
 
@@ -989,6 +1044,7 @@ Only the time will tell.
 
 
 ## <a id="eon0955"></a>Eon 955 - Frustrating Battle of Mt. Pickles
+`2024-07-08`
 
 `⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>)
 
@@ -1002,6 +1058,7 @@ Even though the Deltans were able to put up an impressive fight to retake (forme
 
 
 ## <a id="eon0946"></a>Eon 946 - Expensive Battle of Ares Gardens
+`2024-06-29`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -1019,6 +1076,7 @@ In the end, the attackers outnumbered the defenders 2 to 1 and were hugely succe
 
 
 ## <a id="eon0941"></a>Eon 941 - CI and PS exchange lands
+`2024-06-24`
 
 `⌛ Event`
 
@@ -1031,6 +1089,7 @@ In the end, the attackers outnumbered the defenders 2 to 1 and were hugely succe
 
 
 ## <a id="eon0933"></a>Eon 933 - MT and PS exchange lands
+`2024-06-16`
 
 `⌛ Event`
 
@@ -1039,6 +1098,7 @@ In the end, the attackers outnumbered the defenders 2 to 1 and were hugely succe
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0933.png)
 ## <a id="eon0932"></a>Eon 932 - The 4th Outbreak in Synaxos Fields
+`2024-06-15`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) (combined faction forces)
 
@@ -1052,6 +1112,7 @@ The combined forces have managed to contain the outbreak and prevent it from spr
 
 
 ## <a id="eon0924"></a>Eon 924 - Explosive Battle of Brickland Fortress
+`2024-06-07`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -1071,6 +1132,7 @@ In this battle, every little detail mattered and up until the very last minute i
 
 
 ## <a id="eon0915"></a>Eon 915 - CI and PS exchange lands
+`2024-05-29`
 
 `⌛ Event`
 
@@ -1079,6 +1141,7 @@ In this battle, every little detail mattered and up until the very last minute i
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0915.png)
 ## <a id="eon0914"></a>Eon 914 - Resourceful Battle over Peace Death Gorge
+`2024-05-28`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -1096,6 +1159,7 @@ However, this battle is not without winners, as there are rumours of some other 
 
 
 ## <a id="eon0910"></a>Eon 910 - CI and PS exchange lands
+`2024-05-24`
 
 `⌛ Event`
 
@@ -1104,6 +1168,7 @@ However, this battle is not without winners, as there are rumours of some other 
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0910.png)
 ## <a id="eon0903"></a>Eon 903 - The Corrupted Outpost
+`2024-05-17`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
 
@@ -1115,6 +1180,7 @@ And yet another time the victory only means the Corruption will return, stronger
 
 
 ## <a id="eon0895"></a>Eon 895 - CI and PS exchange lands
+`2024-05-09`
 
 `⌛ Event`
 
@@ -1123,6 +1189,7 @@ And yet another time the victory only means the Corruption will return, stronger
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0895.png)
 ## <a id="eon0893"></a>Eon 893 - The Blunder on PEBKAC Peak
+`2024-05-07`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -1142,6 +1209,7 @@ It is generally agreed that the Deltans would have had a much easier time fighti
 
 
 ## <a id="eon0889"></a>Eon 889 - CI and PS exchange lands
+`2024-05-03`
 
 `⌛ Event`
 
@@ -1150,6 +1218,7 @@ It is generally agreed that the Deltans would have had a much easier time fighti
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0889.png)
 ## <a id="eon0884"></a>Eon 884 - The Rise of Admincity
+`2024-04-28`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -1167,6 +1236,7 @@ The citizens of Admincity celebrate on the streets, but the tensions on the isla
 
 
 ## <a id="eon0874"></a>Eon 874 - The Daring Battle of Chaotic Plains
+`2024-04-18`
 
 `⚔️ Battle` won by Delta Collective
 
@@ -1184,6 +1254,7 @@ Their faction did not secure support of neither the [Fighters Guild](<https://ze
 
 
 ## <a id="eon0864"></a>Eon 864 - The Victory of Peace Death Gorge
+`2024-04-08`
 
 `⚔️ Battle` won by Delta Collective (combined faction forces)
 
@@ -1199,6 +1270,7 @@ The [Peace Death Gorge](<https://zeithalt.github.io/r/peace_death_gorge.html>) s
 
 
 ## <a id="eon0856"></a>Eon 856 - The Foolish Battle of Chaotic Plains
+`2024-03-31`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -1218,6 +1290,7 @@ There was nothing foolish in their actions, the battle simply got this name beca
 
 
 ## <a id="eon0852"></a>Eon 852 - CI and MT exchange lands
+`2024-03-27`
 
 `⌛ Event`
 
@@ -1227,6 +1300,7 @@ There was nothing foolish in their actions, the battle simply got this name beca
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0852.png)
 ## <a id="eon0843"></a>Eon 843 - The Fall of Admincity
+`2024-03-18`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -1250,6 +1324,7 @@ The fall of Admincity is a significant blow to the Cybers, and it is yet to be s
 
 
 ## <a id="eon0842"></a>Eon 842 - MT and DC exchange lands
+`2024-03-17`
 
 `⌛ Event`
 
@@ -1258,6 +1333,7 @@ The fall of Admincity is a significant blow to the Cybers, and it is yet to be s
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0842.png)
 ## <a id="eon0836"></a>Eon 836 - Successful Landing near Virtuara Outpost
+`2024-03-11`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -1275,6 +1351,7 @@ While the further plans of the Deltan commanders are unknown, the _Virtuara_ pro
 
 
 ## <a id="eon0825"></a>Eon 825 - A Near Miss at Paradox Pass
+`2024-02-29`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) (combined faction forces)
 
@@ -1296,6 +1373,7 @@ Some of them may bear a threat no less existential than the Corruption itself.
 
 
 ## <a id="eon0818"></a>Eon 818 - Blitz Battle of the A'as Forest
+`2024-02-22`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -1313,6 +1391,7 @@ As a result, the battle was decided in a matter of hours - the attackers had vas
 
 
 ## <a id="eon0810"></a>Eon 810 - Grinding Battle of Peace Death Gorge
+`2024-02-14`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -1328,6 +1407,7 @@ Such an immense force was not only able to secure this land, but also made the p
 
 
 ## <a id="eon0802"></a>Eon 802 - Military Exercise in the Dev Null Marsh
+`2024-02-06`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -1343,6 +1423,7 @@ With that, the full restoration is far from over as such notable places as [Volc
 
 
 ## <a id="eon0793"></a>Eon 793 - The Mourning of Peace Death Gorge
+`2024-01-28`
 
 `⚔️ Battle` won by [Corruption](<https://zeithalt.github.io/r/corruption.html>)
 
@@ -1360,6 +1441,7 @@ As, sadly, became a routine procedure - [Bank of Zeithalt](<https://zeithalt.git
 
 
 ## <a id="eon0779"></a>Eon 779 - Cloudy Operative is founded
+`2024-01-14`
 
 `⌛ Event`
 
@@ -1375,6 +1457,7 @@ In their founding accords, the new faction vows not to take interest in any land
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0779.png)
 ## <a id="eon0778"></a>Eon 778 - The 3rd Outbreak in Synaxos Fields
+`2024-01-13`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) (combined faction forces)
 
@@ -1390,6 +1473,7 @@ However, the factions were able to gather a strong united force to aid MindTech 
 
 
 ## <a id="eon0768"></a>Eon 768 - Hesitant Battle of Peace Death Gorge
+`2024-01-03`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -1411,6 +1495,7 @@ However, there were no official statements about this from any faction neither d
 
 
 ## <a id="eon0766"></a>Eon 766 - PS rebuilds capital in Cerene Vale
+`2024-01-01`
 
 `⌛ Event`
 
@@ -1430,6 +1515,7 @@ But is it really the end of the war? Or is it just the beginning of a new chapte
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0766.png)
 ## <a id="eon0762"></a>Eon 762 - DC and PS exchange lands
+`2023-12-28`
 
 `📅 Event`
 
@@ -1441,6 +1527,7 @@ But is it really the end of the war? Or is it just the beginning of a new chapte
 
 
 ## <a id="eon0761"></a>Eon 761 - MT and PS exchange lands
+`2023-12-27`
 
 `📅 Event`
 
@@ -1452,6 +1539,7 @@ But is it really the end of the war? Or is it just the beginning of a new chapte
 
 
 ## <a id="eon0759"></a>Eon 759 - The Festive Battle on the Marshes
+`2023-12-25`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -1471,6 +1559,7 @@ The fact that this battle happened during the holiday season granted it a specia
 
 
 ## <a id="eon0755"></a>Eon 755 - Council of Minds is restored in MT
+`2023-12-21`
 
 `⌛ Event`
 
@@ -1490,6 +1579,7 @@ Which begs the ultimate question - will it start a new, more peaceful era for Mi
 
 
 ## <a id="eon0749"></a>Eon 749 - The Burning of Cerene Vale
+`2023-12-15`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -1511,6 +1601,7 @@ Whichever way it goes, at the moment it seems the only way forward is through ev
 
 
 ## <a id="eon0740"></a>Eon 740 - The Battle Of Corrupted Mountain
+`2023-12-06`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) (combined faction forces)
 
@@ -1526,6 +1617,7 @@ Notably, [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>
 
 
 ## <a id="eon0733"></a>Eon 733 - The Frantic Battle over A'as Forest
+`2023-11-29`
 
 `⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>)
 
@@ -1541,6 +1633,7 @@ Despite quickly losing the initiative and all the chaos that ensued, [Protectore
 
 
 ## <a id="eon0730"></a>Eon 730 - PS give Blue Screen Lagoon to CI
+`2023-11-26`
 
 `⌛ Event`
 
@@ -1549,6 +1642,7 @@ Despite quickly losing the initiative and all the chaos that ensued, [Protectore
 ![Battle Map](https://zeithalt.github.io/t/m/eon0730.png)
 
 ## <a id="eon0723"></a>Eon 723 - 2nd Sabotage in the Desert
+`2023-11-19`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -1562,6 +1656,7 @@ However, the battle itself was heavily dominated by [Deltan](<https://zeithalt.g
 
 
 ## <a id="eon0715"></a>Eon 715 - The Unfriendly Battle of Blue Screen Lagoon
+`2023-11-11`
 
 `⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>)
 
@@ -1577,6 +1672,7 @@ Due to previously friendly relations between _Minds_ and _Silvans_, this battle 
 
 
 ## <a id="eon0706"></a>Eon 706 - The Fall of Ares Garden
+`2023-11-02`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -1594,6 +1690,7 @@ However, their efforts were not enough to help _Silvans_ win this battle.
 
 
 ## <a id="eon0697"></a>Eon 697 - The Corruption Outbreak in Synaxos Fields
+`2023-10-24`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) (combined faction forces)
 
@@ -1603,6 +1700,7 @@ _Zeithalt historian took a break during this time, so there’s little or no wri
 
 
 ## <a id="eon0687"></a>Eon 687 - The Crash Landing on Indigo Shore
+`2023-10-14`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -1612,6 +1710,7 @@ _Zeithalt historian took a break during this time, so there’s little or no wri
 
 
 ## <a id="eon0679"></a>Eon 679 - The Defense of Dev Null Marsh
+`2023-10-06`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -1623,6 +1722,7 @@ _Zeithalt historian took a break during this time, so there’s little or no wri
 
 
 ## <a id="eon0666"></a>Eon 666 - The Spooky Battle of Chaotic Plains
+`2023-09-23`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) (combined faction forces)
 
@@ -1632,6 +1732,7 @@ _Zeithalt historian took a break during this time, so there’s little or no wri
 
 
 ## <a id="eon0656"></a>Eon 656 - The Sabotage in the Desert
+`2023-09-13`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -1649,6 +1750,7 @@ It's difficult to determine a clear "winner" in this battle, as both sides claim
 
 
 ## <a id="eon0646"></a>Eon 646 - The Unstable Battle of Blue Screen Lagoon
+`2023-09-03`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -1662,6 +1764,7 @@ Despite the help from [Protectores Silva](<https://zeithalt.github.io/r/protecto
 
 
 ## <a id="eon0636"></a>Eon 636 - The Peculiar Battle of Mt. Pickles
+`2023-08-24`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -1677,6 +1780,7 @@ In this battle [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.h
 
 
 ## <a id="eon0626"></a>Eon 626 - The Enduring Defense of Webified Hills
+`2023-08-14`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
 
@@ -1690,6 +1794,7 @@ Once again factions were able to come together and collectively defeat the threa
 
 
 ## <a id="eon0619"></a>Eon 619 - The Reclamation of Imperial Swamp
+`2023-08-07`
 
 `⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>)
 
@@ -1703,6 +1808,7 @@ Prompted by [Silvans](<https://zeithalt.github.io/r/silvans.html>), the rush to 
 
 
 ## <a id="eon0617"></a>Eon 617 - CI and DC exchange lands
+`2023-08-05`
 
 `⌛ Event`
 
@@ -1713,6 +1819,7 @@ Prompted by [Silvans](<https://zeithalt.github.io/r/silvans.html>), the rush to 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0617.png)
 
 ## <a id="eon0611"></a>Eon 611 - A Picnic near The Purple Deeps
+`2023-07-30`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -1730,6 +1837,7 @@ Later on, the battle resumes, but by that time full power of _Deltan_ forces wer
 
 
 ## <a id="eon0596"></a>Eon 596 - The Fall of Imperial Swamp
+`2023-07-15`
 
 `⚔️ Battle` won by [Corruption](<https://zeithalt.github.io/r/corruption.html>)
 
@@ -1743,6 +1851,7 @@ Either way, the collective effort of factions wasn’t enough and [Imperial Swam
 
 
 ## <a id="eon0582"></a>Eon 582 - The Advance on Peace Death Gorge
+`2023-07-01`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -1754,6 +1863,7 @@ Due to careful planning and good execution, joint forces of [Cybers](<https://ze
 
 
 ## <a id="eon0573"></a>Eon 573 - The Battle of Corrupted Valley
+`2023-06-22`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
 
@@ -1769,6 +1879,7 @@ On the other hand, it means the next battle will be harder.
 
 
 ## <a id="eon0563"></a>Eon 563 - The 5th Battle of Mt. Pickles
+`2023-06-12`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -1784,6 +1895,7 @@ Remarkable trivia - _Mt. Pickles_ has now seen more battles than any other regio
 
 
 ## <a id="eon0560"></a>Eon 560 - CI gives Oblivion Mire to PS
+`2023-06-09`
 
 `⌛ Event`
 
@@ -1793,6 +1905,7 @@ Remarkable trivia - _Mt. Pickles_ has now seen more battles than any other regio
 ![Battle Map](https://zeithalt.github.io/t/m/eon0560.png)
 
 ## <a id="eon0554"></a>Eon 554 - The Race for Oblivion Mire
+`2023-06-03`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -1806,6 +1919,7 @@ The fast-paced nature of this battle gave it the title _The Race for Oblivion Mi
 
 
 ## <a id="eon0545"></a>Eon 545 - Military exercise in Cerene Vale
+`2023-05-25`
 
 `⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) (military exercise)
 
@@ -1813,6 +1927,7 @@ The fast-paced nature of this battle gave it the title _The Race for Oblivion Mi
 
 
 ## <a id="eon0540"></a>Eon 540 - Restoration of Oblivion Mire
+`2023-05-20`
 
 `⌛ Event`
 
@@ -1827,6 +1942,7 @@ The immediate danger is gone, but Zeithalt will remember _The Dark Night on the 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0540.png)
 
 ## <a id="eon0536"></a>Eon 536 - The Dark Night on the Mire
+`2023-05-16`
 
 `⚔️ Battle` won by [Corruption](<https://zeithalt.github.io/r/corruption.html>)
 
@@ -1846,6 +1962,7 @@ This night will be remembered as _The Dark Night on the Mire_.
 
 
 ## <a id="eon0527"></a>Eon 527 - CI and DC exchange lands
+`2023-05-07`
 
 `⌛ Event`
 
@@ -1856,6 +1973,7 @@ This night will be remembered as _The Dark Night on the Mire_.
 ![Battle Map](https://zeithalt.github.io/t/m/eon0527.png)
 
 ## <a id="eon0526"></a>Eon 526 - The Recapture of Synaxos Fields
+`2023-05-06`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -1869,6 +1987,7 @@ This was quite an unusual battle - for the first time in more than 270 eons that
 
 
 ## <a id="eon0519"></a>Eon 519 - CI and DC exchange lands
+`2023-04-29`
 
 `⌛ Event`
 
@@ -1879,6 +1998,7 @@ This was quite an unusual battle - for the first time in more than 270 eons that
 ![Battle Map](https://zeithalt.github.io/t/m/eon0519.png)
 
 ## <a id="eon0518"></a>Eon 518 - Restoration of Synaxos Fields
+`2023-04-28`
 
 `⌛ Event`
 
@@ -1893,6 +2013,7 @@ Many on the Island are wondering of this means a future peaceful collaboration t
 ![Battle Map](https://zeithalt.github.io/t/m/eon0518.png)
 
 ## <a id="eon0517"></a>Eon 517 - PS passes their attack turn
+`2023-04-27`
 
 `⌛ Event`
 
@@ -1902,6 +2023,7 @@ Many on the Island are wondering of this means a future peaceful collaboration t
 
 
 ## <a id="eon0515"></a>Eon 515 - The Sleepy Siege of Cerene Vale
+`2023-04-25`
 
 `⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>)
 
@@ -1915,6 +2037,7 @@ The slow and frankly quite boring nature of this unsuccessful siege has granted 
 
 
 ## <a id="eon0508"></a>Eon 508 - The Disaster of Synaxos Fields
+`2023-04-18`
 
 `⚔️ Battle` won by [Corruption](<https://zeithalt.github.io/r/corruption.html>)
 
@@ -1932,6 +2055,7 @@ For sure, factions will study the phenomenon in the coming eons to see if at lea
 
 
 ## <a id="eon0506"></a>Eon 506 - Rebellion in the Desert
+`2023-04-16`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -1947,6 +2071,7 @@ Unfortunately for [Rebels](<https://zeithalt.github.io/r/rebels.html>) they did 
 
 
 ## <a id="eon0505"></a>Eon 505 - Rebels take over Timeless Desert
+`2023-04-15`
 
 `⌛ Event`
 
@@ -1958,6 +2083,7 @@ Immediately the fighting starts, [Minds](<https://zeithalt.github.io/r/minds.htm
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0505.png)
 ## <a id="eon0502"></a>Eon 502 - The Island is getting ready for the next Corruption surge
+`2023-04-12`
 
 `⌛ Event`
 
@@ -1966,6 +2092,7 @@ Immediately the fighting starts, [Minds](<https://zeithalt.github.io/r/minds.htm
 [Bank of Zeithalt](<https://zeithalt.github.io/r/bank_of_zeithalt.html>) issues a message that it is well-prepared to face any outcome, including  outburst not being contained in [Synaxos Fields](<https://zeithalt.github.io/r/synaxos_fields.html>). Strict monetary restrictions will be in place if this happens in order to ensure the stability of the Island’s economy.
 
 ## <a id="eon0501"></a>Eon 501 - The Failed Landing near Virtuara Outpost
+`2023-04-11`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -1983,6 +2110,7 @@ As a result, [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.htm
 
 
 ## <a id="eon0492"></a>Eon 492 - CI and MT exchange lands
+`2023-04-02`
 
 `⌛ Event`
 
@@ -1996,6 +2124,7 @@ Will this mean an era of prosperity and peace for the two factions? Or will it b
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0492.png)
 ## <a id="eon0491"></a>Eon 491 - The Oblivious Battle on the Mire
+`2023-04-01`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -2014,6 +2143,7 @@ Such forgetfulness of MT officials granted this battle its title - _The Obliviou
 
 
 ## <a id="eon0487"></a>Eon 487 - CI and MT exchange lands
+`2023-03-28`
 
 `⌛ Event`
 
@@ -2024,12 +2154,14 @@ Such forgetfulness of MT officials granted this battle its title - _The Obliviou
 ![Battle Map](https://zeithalt.github.io/t/m/eon0487.png)
 
 ## <a id="eon0481"></a>Eon 481 - PS passes their attack turn
+`2023-03-22`
 
 `⌛ Event`
 
 [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) passes their attack turn again.
 
 ## <a id="eon0480"></a>Eon 480 - CI gives Xyrclaox Watch back to MT
+`2023-03-21`
 
 `⌛ Event`
 
@@ -2038,6 +2170,7 @@ Such forgetfulness of MT officials granted this battle its title - _The Obliviou
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0480.png)
 ## <a id="eon0479"></a>Eon 479 - The Crawling Battle of Xyrclaox Watch
+`2023-03-20`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -2053,6 +2186,7 @@ The careful, slow and intense nature of the battle has granted it its name - _Th
 
 
 ## <a id="eon0469"></a>Eon 469 - The Corrupted Battle of PEBKAC Peak
+`2023-03-10`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
 
@@ -2068,6 +2202,7 @@ Due to the success in The Corrupted Battle of [PEBKAC Peak](<https://zeithalt.gi
 
 
 ## <a id="eon0466"></a>Eon 466 - CI and PS prepare for CR Battle
+`2023-03-07`
 
 `⌛ Event`
 
@@ -2081,6 +2216,7 @@ Notable events that happened during the short time faction held each other’s l
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0466.png)
 ## <a id="eon0463"></a>Eon 463 - DC gives Ares Gardens to PS
+`2023-03-04`
 
 `⌛ Event`
 
@@ -2088,6 +2224,7 @@ Notable events that happened during the short time faction held each other’s l
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0463.png)
 ## <a id="eon0462"></a>Eon 462 - The 2nd Siege of Neuropolis
+`2023-03-03`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -2101,6 +2238,7 @@ Important thing to note is that during this battle the deal between [Cybers](<ht
 
 
 ## <a id="eon0452"></a>Eon 452 - Technological advancement - Taxes and Land Income
+`2023-02-21`
 
 `⌛ Event`
 
@@ -2113,6 +2251,7 @@ Factions immediately started investing into their own economy by building land i
 - [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) builds `🌿 Photosynthetic Power Station` in [A’as Forest](<https://zeithalt.github.io/r/aas_forest.html>).
 
 ## <a id="eon0451"></a>Eon 451 - The Blitz Battle of Peace Death Gorge
+`2023-02-20`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -2126,6 +2265,7 @@ Both [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (def
 
 
 ## <a id="eon0441"></a>Eon 441 - The Lakeside Battle of Webified Hills
+`2023-02-10`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -2141,12 +2281,14 @@ Notable that [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institu
 
 
 ## <a id="eon0435"></a>Eon 435 - PS passes their attack turn
+`2023-02-04`
 
 `⌛ Event`
 
 [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) passes their attack turn again.
 
 ## <a id="eon0432"></a>Eon 432 - The Battle of Corrupted Marshes
+`2023-02-01`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) (combined faction forces)
 
@@ -2158,6 +2300,7 @@ However, this battles was not without surprises - [Deltans](<https://zeithalt.gi
 
 
 ## <a id="eon0425"></a>Eon 425 - PS passes their attack turn
+`2023-01-25`
 
 `⌛ Event`
 
@@ -2166,6 +2309,7 @@ However, this battles was not without surprises - [Deltans](<https://zeithalt.gi
 > *PS is happy we see no reason to attack another faction. We're busy with our restorative efforts on Zeithalt and hope all other factions will help us in our important work.*
 
 ## <a id="eon0423"></a>Eon 423 - The Foolish Battle of Timeless Desert
+`2023-01-23`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -2177,6 +2321,7 @@ Met by the defense of all 3 other factions, this attack was destined to fail fro
 
 
 ## <a id="eon0419"></a>Eon 419 - 3-way land exchange between CI, MT and PS
+`2023-01-19`
 
 `⌛ Event`
 
@@ -2187,6 +2332,7 @@ Met by the defense of all 3 other factions, this attack was destined to fail fro
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0419.png)
 ## <a id="eon0418"></a>Eon 418 - CI and DC exchange lands
+`2023-01-18`
 
 `⌛ Event`
 
@@ -2196,6 +2342,7 @@ Met by the defense of all 3 other factions, this attack was destined to fail fro
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0418.png)
 ## <a id="eon0413"></a>Eon 413 - The Battle of Legoland Fortress
+`2023-01-13`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -2211,6 +2358,7 @@ The tensions are rising, alliances are shaking. It seems only [Protectores Silva
 
 
 ## <a id="eon0407"></a>Eon 407 - CI and MT exchange lands
+`2023-01-07`
 
 `⌛ Event`
 
@@ -2220,6 +2368,7 @@ The tensions are rising, alliances are shaking. It seems only [Protectores Silva
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0407.png)
 ## <a id="eon0402"></a>Eon 402 - The Night Battle of Paradox Pass
+`2023-01-02`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -2233,6 +2382,7 @@ This battle happened at night time for most of the participants and took longer 
 
 
 ## <a id="eon0391"></a>Eon 391 - 2nd Battle of Corrupted Desert
+`2022-12-22`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) (combined faction forces)
 
@@ -2246,6 +2396,7 @@ Does it mean that the next time the [Corruption](<https://zeithalt.github.io/r/c
 
 
 ## <a id="eon0386"></a>Eon 386 - DC and CI exchange lands 2 for 2
+`2022-12-17`
 
 `⌛ Event`
 
@@ -2255,6 +2406,7 @@ Does it mean that the next time the [Corruption](<https://zeithalt.github.io/r/c
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0386.png)
 ## <a id="eon0384"></a>Eon 384 - The Siege of Neuropolis
+`2022-12-15`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -2272,6 +2424,7 @@ All the fires remaining after battle were promptly put out, the immediate restor
 
 
 ## <a id="eon0375"></a>Eon 375 - The 4h Battle of Mt. Pickles
+`2022-12-06`
 
 `⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) (military exercise)
 
@@ -2283,6 +2436,7 @@ However, [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.h
 
 
 ## <a id="eon0370"></a>Eon 370 - CI gives Cybertron Jungle to PS
+`2022-12-01`
 
 `⌛ Event`
 
@@ -2292,6 +2446,7 @@ However, [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.h
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0370.png)
 ## <a id="eon0369"></a>Eon 369 - Protectores Silva is founded
+`2022-11-30`
 
 `⌛ Event`
 
@@ -2307,6 +2462,7 @@ The founding statement from this new faction to the people of Zeithalt is:
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0369.png)
 ## <a id="eon0368"></a>Eon 368 - CI gives Imperial Swamp back to DC
+`2022-11-29`
 
 `⌛ Event`
 
@@ -2316,6 +2472,7 @@ The founding statement from this new faction to the people of Zeithalt is:
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0368.png)
 ## <a id="eon0367"></a>Eon 367 - The Fishy Battle of Imperial Swamp
+`2022-11-28`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
 
@@ -2329,6 +2486,7 @@ A notable achievement for Cybers - it is their first victory in a battle against
 
 
 ## <a id="eon0359"></a>Eon 359 - The Battle of Corrupted Forest
+`2022-11-20`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) (combined faction forces)
 
@@ -2347,6 +2505,7 @@ Reports say that [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc
 
 
 ## <a id="eon0353"></a>Eon 353 - Corruption research in full swing
+`2022-11-14`
 
 `⌛ Event`
 
@@ -2356,12 +2515,14 @@ Due to ongoing peace, factions have set up an extensive network of control stati
 
 Based on the observations done by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) scientists, it is reported that the first signs of approaching [Corruption](<https://zeithalt.github.io/r/corruption.html>) are appearing in [A’as Forest](<https://zeithalt.github.io/r/aas_forest.html>).
 ## <a id="eon0352"></a>Eon 352 - DC calls off an attack
+`2022-11-13`
 
 `⌛ Event`
 
 After two other factions skipped their turns in hopes to preserve peace, [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) decided to join this effort and too will not attack at this time.
 
 ## <a id="eon0351"></a>Eon 351 - CI and DC exchange lands
+`2022-11-12`
 
 `⌛ Event`
 
@@ -2371,6 +2532,7 @@ Upon mutual agreement between [Cybernetics Inc](<https://zeithalt.github.io/r/cy
   
 ![Battle Map](https://zeithalt.github.io/t/m/eon0351.png)
 ## <a id="eon0349"></a>Eon 349 - MT support the effort for peace
+`2022-11-10`
 
 `⌛ Event`
 
@@ -2384,6 +2546,7 @@ Upon mutual agreement between [Cybernetics Inc](<https://zeithalt.github.io/r/cy
 
 
 ## <a id="eon0347"></a>Eon 347 - CI calls for peace
+`2022-11-08`
 
 `⌛ Event`
 
@@ -2391,6 +2554,7 @@ Still working on repairs and seeing so much destruction around them from the rec
 
 CI have taken that first step themselves and chose not to engage in a new battle.
 ## <a id="eon0345"></a>Eon 345 - The Battle of Corrupted Jungle
+`2022-11-06`
 
 `⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
 
@@ -2404,6 +2568,7 @@ During the battle [MindTech Institute](<https://zeithalt.github.io/r/mindtech_in
 
 
 ## <a id="eon0341"></a>Eon 341 - MT gives Indigo Shore to CI
+`2022-11-02`
 
 `⌛ Event`
 
@@ -2411,11 +2576,13 @@ During the battle [MindTech Institute](<https://zeithalt.github.io/r/mindtech_in
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0341.png)
 ## <a id="eon0339"></a>Eon 339 - CR Outburst is predicted to happen in Cybertron
+`2022-10-31`
 
 `⌛ Event`
 
 The preachers across Zeithalt once again speak of the dangers [Corruption](<https://zeithalt.github.io/r/corruption.html>) brings to the Island… this time [Cybertron Jungle](<https://zeithalt.github.io/r/cybertron_jungle.html>) is said to be affected.
 ## <a id="eon0338"></a>Eon 338 - The 3rd Battle of Mt. Pickles
+`2022-10-30`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -2431,6 +2598,7 @@ With the upcoming [Corruption](<https://zeithalt.github.io/r/corruption.html>) b
 
 
 ## <a id="eon0330"></a>Eon 330 - The Confusing Battle of Indigo Shore
+`2022-10-22`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -2446,6 +2614,7 @@ All this confusion granted the battle its name - The Confusing Battle of [Indigo
 
 
 ## <a id="eon0321"></a>Eon 321 - The Long Battle of Dev Null Marsh
+`2022-10-13`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -2457,6 +2626,7 @@ This battle lasts unexpectedly longer than usual, granting its name - The Long B
 
 
 ## <a id="eon0314"></a>Eon 314 - The Battle of Corrupted Desert
+`2022-10-06`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) (combined faction forces)
 
@@ -2470,6 +2640,7 @@ Defense is successful and [Timeless Desert](<https://zeithalt.github.io/r/timele
 
 
 ## <a id="eon0310"></a>Eon 310 - Unknown treat appears on the Island
+`2022-10-02`
 
 `⌛ Event`
 
@@ -2477,6 +2648,7 @@ Rumors of unknown threat start spreading across Zeithalt Island.
 
 This date marks the beginning of what would become the [Corruption](<https://zeithalt.github.io/r/corruption.html>) research.
 ## <a id="eon0306"></a>Eon 306 - The Boring Battle
+`2022-09-28`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -2490,6 +2662,7 @@ Due to this unusual even the battle is known as The Boring Battle.
 
 
 ## <a id="eon0301"></a>Eon 301 - DC give Synaxos Fields to CI
+`2022-09-23`
 
 `⌛ Event`
 
@@ -2497,6 +2670,7 @@ Due to this unusual even the battle is known as The Boring Battle.
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0301.png)
 ## <a id="eon0298"></a>Eon 298 - Battle of Synaxos Fields
+`2022-09-20`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -2506,6 +2680,7 @@ Deltans join [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.htm
 
 
 ## <a id="eon0295"></a>Eon 295 - Technological advancement - Support and Sabotage
+`2022-09-17`
 
 `⌛ Event`
 
@@ -2513,6 +2688,7 @@ Deltans join [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.htm
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0295.png)
 ## <a id="eon0291"></a>Eon 291 - Delta Collective renames several of their lands
+`2022-09-13`
 
 `⌛ Event`
 
@@ -2524,6 +2700,7 @@ The reformation of Delta Collective continues with the renaming of the following
 
 ![Battle Map](https://zeithalt.github.io/t/m/eon0291.png)
 ## <a id="eon0290"></a>Eon 290 - The 2nd Battle of Mt. Pickles
+`2022-09-12`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -2533,6 +2710,7 @@ With newfound strength, Delta Collective attacks [Mt. Pickles](<https://zeithalt
 
 
 ## <a id="eon0280"></a>Eon 280 - Battle of Brickland Fortress
+`2022-09-02`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -2544,6 +2722,7 @@ However, the influx of new warriors in Delta Collective and their ability to neg
 
 
 ## <a id="eon0275"></a>Eon 275 - Uprising in the Delta Collective
+`2022-08-28`
 
 `⌛ Event`
 
@@ -2554,6 +2733,7 @@ The faction starts speaking [Deltan language](<https://zeithalt.github.io/r/delt
 [GreenOtter](<https://zeithalt.github.io/r/greenotter.html>) is deposed from being a leader of Delta Collective and is exiled from the faction.
 
 ## <a id="eon0273"></a>Eon 273 - Technological advancement
+`2022-08-26`
 
 `⌛ Event`
 
@@ -2562,6 +2742,7 @@ The faction starts speaking [Deltan language](<https://zeithalt.github.io/r/delt
 ![Battle Map](https://zeithalt.github.io/t/m/eon0273.png)
 
 ## <a id="eon0272"></a>Eon 272 - The 2nd Battle of Timeless Desert
+`2022-08-25`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -2573,6 +2754,7 @@ It all comes down to the very last minutes of the battle, and could've ended eit
 
 
 ## <a id="eon0266"></a>Eon 266 - Battle of Dev Null Marsh
+`2022-08-19`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -2588,6 +2770,7 @@ This battle is the starting point of the mutual hatred between Cybers and Minds,
 
 
 ## <a id="eon0257"></a>Eon 257 - Battle of Mt. Pickles
+`2022-08-10`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -2598,11 +2781,13 @@ MindTech Institute attacks [Delta Collective](<https://zeithalt.github.io/r/delt
 
 
 ## <a id="eon0253"></a>Eon 253 - Start of the Age of Battles
+`2022-08-06`
 
 `⌛ Event`
 
 With no more free lands available, the factions will soon be forced to fight each other, starting the [Age of Battles](<https://zeithalt.github.io/r/age_of_battles.html>).
 ## <a id="eon0252"></a>Eon 252 - Battle of Timeless Desert
+`2022-08-05`
 
 `⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
 
@@ -2616,6 +2801,7 @@ This battle marks the end of the [Age of Conquest](<https://zeithalt.github.io/r
 
 
 ## <a id="eon0247"></a>Eon 247 - The Forgotten Battle
+`2022-07-31`
 
 `⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
 
@@ -2627,16 +2813,19 @@ At this point in time, one last free land remains - [Timeless Desert](<https://z
 
 
 ## <a id="eon0246"></a>Eon 246 - Start of the recorded history
+`2022-07-30`
 
 `⌛ Event`
 
 This is where the earliest written source of this timeline comes from.
 ## <a id="eon0001"></a>Eon 1 - Start of the Age of Conquest
+`2021-11-27`
 
 `⌛ Event`
 
 Marks the start of the [Age of Conquest](<https://zeithalt.github.io/r/age_of_conquest.html>).
 ## <a id="eon0000"></a>Eon 0 - End of the Age of Darkness
+`2021-11-26`
 
 `⌛ Event`
 
