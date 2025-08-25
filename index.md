@@ -1,4 +1,22 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1365"></a>Eon 1365 - Backfired Battle of Brickland Fortress
+`2025-08-22`
+
+`⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
+
+In the lead-up to this battle, the [Protectores Silva's](<https://zeithalt.github.io/r/protectores_silva.html>) plan seemed simple: attack the [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) while they were still distracted by a recent [Corruption outbreak](<https://zeithalt.github.io/t/#eon1354>).
+
+The attack landed as a heavy blow on [Brickland Fortress](<https://zeithalt.github.io/r/brickland_fortress.html>)... however the battle did not go as planned.
+
+Instead of quickly plowing through _Deltan_ defenses, the _Silvan_ attack first bogged down, then ground to a halt.
+
+A few hours into the battle, the _Silvans_ and their allies began losing ground to a counter-advancing Deltan army.
+
+The result was that the _Silvan_ forces were pushed entirely out of _Brickland Fortress_, solidifying the _Deltan_ hold on the region for the foreseeable future.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1365.png)
+
+
 ## <a id="eon1354"></a>Eon 1354 - An Oopsie in Ares Garden
 `2025-08-11`
 
