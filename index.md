@@ -1,4 +1,28 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1374"></a>Eon 1374 - Colorful Battle Of Timeless Desert
+`2025-08-31`
+
+`⚔️ Battle` won by [Cloudy Operatives](<https://zeithalt.github.io/r/cloudy_operatives.html>)
+
+This battle was believed to be the _Operatives'_ last chance for survival: either they reclaimed their sacred [Timeless Desert](<https://zeithalt.github.io/r/timeless_desert.html>) or they would be eliminated, ceasing to exist as a faction.
+
+Employing the military might of [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) and backed by the [MindTech Institute's](<https://zeithalt.github.io/r/mindtech_institute.html>) strategic planning, the _Operatives_ launched a daring - some would even say suicidal - attempt to free [The Desert](<https://zeithalt.github.io/r/timeless_desert.html>) from [Deltan](<https://zeithalt.github.io/r/delta_collective.html>) occupation.
+
+From the get-go, the battle proved difficult. Early plans fell through as the defenses set up by the _Deltans_ were far more robust than anticipated.
+
+Cleverly switching tactics, the attackers moved back and forth between assaulting the enemy and patching holes in their own lines, managing to persevere through the long and gritty battle.
+
+A crucial moment came when severe infighting broke out between the _Cybers_ and the _Operatives_ in the north of the region. The friendly fire was brought under control only after several hours of confusion and unnecessary losses.
+
+At points, it seemed everyone was fighting everyone else. With banners of all sorts flying across the battlefield, a _MindTech_ scholar, _J. Makintaer_, was prompted to nickname the conflict the _Colorful Battle of Timeless Desert_.
+
+As a result, the _Desert_ itself now looks quite colorful on the map. All four factions of the anti-Deltan alliance are represented, with only half of the region under the direct control of the _Cloudy Operatives_.
+
+This leaves open the question of how exactly this new reality will shape the future politics of Zeithalt.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1374.png)
+
+
 ## <a id="eon1365"></a>Eon 1365 - Backfired Battle of Brickland Fortress
 `2025-08-22`
 
