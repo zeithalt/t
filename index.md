@@ -6,7 +6,7 @@
 
 This battle was believed to be the _Operatives'_ last chance for survival: either they reclaimed their sacred [Timeless Desert](<https://zeithalt.github.io/r/timeless_desert.html>) or they would be eliminated, ceasing to exist as a faction.
 
-Employing the military might of [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) and backed by the [MindTech Institute's](<https://zeithalt.github.io/r/mindtech_institute.html>) strategic planning, the _Operatives_ launched a daring - some would even say suicidal - attempt to free [The Desert](<https://zeithalt.github.io/r/timeless_desert.html>) from [Deltan](<https://zeithalt.github.io/r/delta_collective.html>) occupation.
+Employing the military might of _Cybernetics Inc_ and backed by the _MindTech Institute's_ strategic planning, the _Operatives_ launched a daring - some would even say suicidal - attempt to free _The Desert_ from [Deltan](<https://zeithalt.github.io/r/delta_collective.html>) occupation.
 
 From the get-go, the battle proved difficult. Early plans fell through as the defenses set up by the _Deltans_ were far more robust than anticipated.
 
