@@ -1,4 +1,24 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1381"></a>Eon 1381 - Hesitant Battle of Imperial Swamp
+`2025-09-07`
+
+`⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) (combined faction forces)
+
+Ahead of this [Corruption](<https://zeithalt.github.io/r/corruption.html>) outburst, the plan was laid out, delivered to the troops, and everything was ready to be executed according to it.
+
+And it did. Until it did not. And then we were back on track. But then plans fell through again.
+
+The fight was chaotic, as _Corruption_ itself seemed to behave unpredictably, changing its manifestation with each passing hour.
+
+Eventually, the factions caught on to the new patterns of _Corruption's_ behavior and adapted, pushing it back to the very fringes of the [Imperial Swamp](<https://zeithalt.github.io/r/imperial_swamp.html>).
+
+The name of this battle comes from the leadership's hesitance to either commit to their plans or call them off - a decision that seemed to change hour by hour.
+
+With _Corruption_ at bay for now, these unexpected changes in its patterns ahead of the planned [Cycle of Restoration](<https://zeithalt.github.io/r/cycle_of_restoration.html>) leave everyone wary of the difficult task at hand.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1381.png)
+
+
 ## <a id="eon1374"></a>Eon 1374 - Colorful Battle Of Timeless Desert
 `2025-08-31`
 
