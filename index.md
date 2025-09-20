@@ -1,4 +1,40 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1393"></a>Eon 1393 - BB transfers control over their lands in Paradox Pass to MT
+`2025-09-19`
+
+`⌛ Event`
+
+The [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) transfers its portion of the [Paradox Pass](<https://zeithalt.github.io/r/paradox_pass.html>) region to the [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>).
+
+This exclave had been surrounded and difficult to defend ever since the _Brothers_ lost their conquests in [Synaxos Fields](<https://zeithalt.github.io/r/synaxos_fields.html>) and [Neuropolis](<https://zeithalt.github.io/r/neuropolis.html>).
+
+Many believed it was only a matter of time until the _Brothers_ would be forced to give it up as well.
+
+With this transition, Deltan forces are completely removed from sovereign MindTech lands, closing that grim chapter of _Minds_ history for good.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1393.png)
+## <a id="eon1389"></a>Eon 1389 - Grave Mistake in Webified Hills
+`2025-09-15`
+
+`⚔️ Battle` won by [Corruption](<https://zeithalt.github.io/r/corruption.html>)
+
+Despite the [recently detected changes](<https://zeithalt.github.io/t/#eon1381>) in _Corruption_ outbursts, the pre-planned operation to clear [Webified Hills](<https://zeithalt.github.io/r/webified_hills.html>) was given the go-ahead.
+
+The combined scientific forces of the _Deltans_, _Minds_, and _Cybers_ believed they had a good understanding of the newly discovered principles behind [CR Outbursts](<https://zeithalt.github.io/r/cr_fallout.html>) and had prepared a battle plan for the cleanup.
+
+However, despite having all the data, the early hours of the operation showed that it would be much more difficult to accomplish than expected.
+
+During the first phase of the battle, the factions barely managed to hold the line against the _Corruption_, forcing them to switch from their optimistic cleanup goal to a mere containment strategy.
+
+However, even this revised plan turned out to be beyond the combined forces' ability.
+
+In the final third of the battle, the _Corruption_ broke through their defenses and spread rapidly, consuming more than 60% of the _Webified Hills_ at its peak before the outburst subsided.
+
+The result of the _Grave Mistake in Webified Hills_ is one more Corrupted land on Zeithalt Island - an unprecedented and grim reality as the situation on the Island seems to be spiraling out of control.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1389.png)
+
+
 ## <a id="eon1381"></a>Eon 1381 - Hesitant Battle of Imperial Swamp
 `2025-09-07`
 
