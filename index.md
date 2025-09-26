@@ -1,4 +1,24 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1396"></a>Eon 1396 - Failed Cleanup of Ares Garden
+`2025-09-22`
+
+`⚔️ Battle` won by [Corruption](<https://zeithalt.github.io/r/corruption.html>)
+
+After the recent [failed attempt to clean up Webified Hills](<https://zeithalt.github.io/t/#eon1389>), the mood on the island was pessimistic.
+
+A combined factions' force gathered a relatively modest cleanup crew at the border between [Ares Garden](<https://zeithalt.github.io/r/ares_gardens.html>) and the [Deltan capital](<https://zeithalt.github.io/r/purple_deeps.html>) to try and push the [Corruption](<https://zeithalt.github.io/r/corruption.html>) back from the city.
+
+Initial efforts seemed successful, but as night fell, the heavy losses began.
+
+Despite the strong start, the cleanup operation triggered a _Corruption Outburst_ that dealt a devastating blow to the factions' forces, forcing them into a full retreat.
+
+However, the event was not a total loss. In that outburst, the _Corruption_ seems to have expended a significant amount of its energy. It is now predicted that the remaining corruption on the Island has lost about half its strength, which should make future cleanup attempts easier.
+
+This potential advantage came at a great cost. Several notable warriors fell ill with [acute corruption sickness](<https://zeithalt.github.io/r/cr_sickness.html>), and more importantly, the protective buffer between the corrupted Ares region and Purple Deeps was breached. The Deltan capital now lies directly in range of the next major CR Outburst.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1396.png)
+
+
 ## <a id="eon1393"></a>Eon 1393 - BB transfers control over their lands in Paradox Pass to MT
 `2025-09-19`
 
