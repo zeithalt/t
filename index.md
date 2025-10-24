@@ -1,4 +1,52 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1420"></a>Eon 1420 - Battle in Oblivion Mire
+`2025-10-16`
+
+`⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) (combined faction forces)
+
+Contrary to the [previous battle](<https://zeithalt.github.io/t/#eon1412>), the cleanup of [Oblivion Mire](<https://zeithalt.github.io/r/oblivion_mire.html>) was met with some controversy.
+
+Following a dispute between the leadership of the [Fighters Guild](<https://zeithalt.github.io/r/fighters_guild.html>) and [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>), the _Fighters_ decided to sabotage the cleanup efforts.
+
+The faction's decision was intended as "punishment" for the _Silvans_ for their previous sabotage of the [Obsidian Wolf](<https://zeithalt.github.io/r/obsidian_wolf.html>) launch a couple dozens of eons prior.
+
+While many on the island were shocked by this decision and saw it as "helping Corruption capture Oblivion Mire," in practice, the _Fighters'_ effort was not nearly as impactful.
+
+Both sides seemingly presented it as their victory. The _Fighters Guild_ claims to have caused the _Silvans_ a similar amount of damage in retaliation, while _Protectores Silva_ reports a successful cleanup effort with no major losses from the _Fighters'_ sabotage.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1420.png)
+
+
+## <a id="eon1412"></a>Eon 1412 - Harmonious Cleanup of Cybertron Jungle
+`2025-10-08`
+
+`⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) (combined faction forces)
+
+Following the blueprint of the [previous battle](<https://zeithalt.github.io/t/#eon1405>), the combined forces of all factions cleared another land, [Cybertron Jungle](<https://zeithalt.github.io/r/cybertron_jungle.html>), of [Corruption](<https://zeithalt.github.io/r/corruption.html>).
+
+During this battle, no major incidents were recorded, and overall, the cleanup operation was conducted with unusual harmony and coordination between factions.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1412.png)
+
+
+## <a id="eon1405"></a>Eon 1405 - Methodical Cleanup of Xyrclaox Watch
+`2025-10-01`
+
+`⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) (combined faction forces)
+
+After the recent slip-ups with corruption in the [Webified](<https://zeithalt.github.io/t/#eon1389>) and [Ares](<https://zeithalt.github.io/t/#eon1396>) regions, the factions took a more careful and measured approach to the [Corruption](<https://zeithalt.github.io/r/corruption.html>) cleanup.
+
+The defense area of [Xyrclaox Watch](<https://zeithalt.github.io/r/xyrclaox_watch.html>) was divided into sectors, responsibilities were assigned, and the factions took slow, methodical steps to clear the land of _Corruption_.
+
+Over the long night, the _Corruption_ managed to take some ground back; however, night watches and patrols were posted to contain the threat until morning reinforcements arrived.
+
+Due to this careful and thoughtful approach, the actual execution looked almost easy in comparison to previous battles.
+
+The _Corruption_ still remains a dangerous threat, but with this new strategy, the factions have begun their steady progress toward lifting the [State of Emergency](<https://zeithalt.github.io/r/boz_state_of_emergency.html>).
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1405.png)
+
+
 ## <a id="eon1396"></a>Eon 1396 - Failed Cleanup of Ares Garden
 `2025-09-22`
 
