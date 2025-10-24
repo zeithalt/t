@@ -1,5 +1,5 @@
 # <a id="top"></a>Zeithalt Timeline
-## <a id="eon1420"></a>Eon 1420 - Battle in Oblivion Mire
+## <a id="eon1420"></a>Eon 1420 - Controversy in Oblivion Mire
 `2025-10-16`
 
 `⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) (combined faction forces)
