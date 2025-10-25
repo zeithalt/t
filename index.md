@@ -1,4 +1,22 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1427"></a>Eon 1427 - Calm Defence of Blue Screen Lagoon
+`2025-10-23`
+
+`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
+
+This [Corruption](<https://zeithalt.github.io/r/corruption.html>) Outburst in [Blue Screen Lagoon](<https://zeithalt.github.io/r/blue_screen_lagoon.html>) was fended off with the same calm and collected response from the organized factions' forces as seen in previous anti-CR cleanups.
+
+The factions had a plan, and they followed it.
+
+_Corruption_ never posed any danger to the majority of the _Lagoon_. It was promptly contained in the western regions and methodically cleared until the Outburst subsided.
+
+Will this unprecedented efficiency continue? Or will the factions get too comfortable living alongside the dangerous _Corruption_ and eventually miss a critical blow?
+
+Only time will tell.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1427.png)
+
+
 ## <a id="eon1420"></a>Eon 1420 - Controversy in Oblivion Mire
 `2025-10-16`
 
