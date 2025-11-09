@@ -1,4 +1,28 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1436"></a>Eon 1436 - Divisive Battle in Chaotic Plains
+`2025-11-01`
+
+`⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
+
+While the whole Island seemingly had been lulled into a relaxed and lazy slumber, the sound of alarms in [Chaotic Plains](<https://zeithalt.github.io/r/chaotic_plains.html>) brought it to an abrupt end.
+
+[Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) attack took everyone by surprise, as it was the general consensus that the long-standing anti-CR treaty would be routinely renewed and the clean-up work would continue.
+
+However, Silvans, relying on the formal expiry of the agreement, took it upon themselves to restart inter-factional battles with an early morning attack on [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>).
+
+The target of this attack had seemingly not been discussed even with Silvans' own allies. The confusion among [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) and [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) was just as strong as on the Deltan side.
+
+As a result, the response from the allies was weak and uncertain. Some help came in, but it was nowhere near the coalition's full potential, causing a potentially deep divide between the friendly factions.
+
+The Deltan resistance was strong and collected, stopping Silvans' advancement in the northern area of the _Chaotic Plains._
+
+In another peculiar development, [Corruption](<https://zeithalt.github.io/r/corruption.html>) spread along the coast of the _Plains_ - the first-ever recorded sea-based advancement.
+
+Some members of the clean-up crew also insisted that the _Corruption_ itself tried to communicate with them; threatening messages such as "Resistance is futile" and "You will not win" are rumored to have been heard.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1436.png)
+
+
 ## <a id="eon1427"></a>Eon 1427 - Calm Defence of Blue Screen Lagoon
 `2025-10-23`
 
