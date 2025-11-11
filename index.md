@@ -1,4 +1,24 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1444"></a>Eon 1444 - The Push Back at Webified Hills
+`2025-11-09`
+
+`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) (combined faction forces)
+
+After careful battle planning, the combined faction force began its clean-up of the second-biggest [Corruption](<https://zeithalt.github.io/r/corruption.html>) outpost: [Webified Hills](<https://zeithalt.github.io/r/webified_hills.html>).
+
+Overall, the battle had the same calm and collected "getting things done" atmosphere that most recent _Corruption_ clean-ups have had.
+
+Despite the daunting task ahead, the factions slowly but steadily moved from tile to tile, cleaning up one patch of land after another.
+
+Due to the large scope of the _Corruption Fallout_ in the region, the land was not fully cleared; however, the majority of it was secured, allowing _Cybernetics Inc_ to begin restoring control over the area.
+
+One notable outcome of the battle was the surprisingly good performance of a couple of warriors who had recently departed from the [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) to join the _Cybers_.
+
+With the recent passing of the former [Headmaster Dino Saurex](<https://zeithalt.github.io/r/curious_dino.html>), does this mark a turn for the worse for the once-mighty faction?
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1444.png)
+
+
 ## <a id="eon1436"></a>Eon 1436 - Divisive Battle in Chaotic Plains
 `2025-11-01`
 
