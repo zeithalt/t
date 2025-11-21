@@ -1,4 +1,24 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1452"></a>Eon 1452 - Misguided Battle of Brickland Fortress
+`2025-11-17`
+
+`⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
+
+In the lead-up to the battle, [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) started an extensive diplomatic effort to temporarily pause fighting and prevent the spread of [Corruption](<https://zeithalt.github.io/r/corruption.html>).
+
+After numerous attempts, the discussion, which included _Minds_, _Deltans_, _Silvans_, and _Brothers_ officials, yielded no results.
+
+This resulted in a daring MindTech attack on the Deltan-controlled [Brickland Fortress](<https://zeithalt.github.io/r/brickland_fortress.html>), with the stated goal of forcing the _Deltans_ to clear _Corruption_ hotspots before resuming their war with the _Silvans_.
+
+The major risk of this plan was the possibility of either the _Deltans_ or _Silvans_ using this attack as an opportunity to take more land in _Brickland_. And this is indeed what followed.
+
+The _Silvans_ struck first, launching swift attacks into _Deltan_ territories. The _Deltans_, however, responded with even larger-scale counter-attacks and pushed the Silvan force entirely out of _Brickland_.
+
+Along with this pushback, Deltan forces also successfully cleared the remnants of _Corruption_ in the region.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1452.png)
+
+
 ## <a id="eon1444"></a>Eon 1444 - The Push Back at Webified Hills
 `2025-11-09`
 
