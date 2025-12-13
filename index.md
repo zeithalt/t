@@ -1,4 +1,60 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1475"></a>Eon 1475 - Clean-up of Peace Death Gorge
+`2025-12-10`
+
+`⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
+
+The winning streak of anti-[Corruption](<https://zeithalt.github.io/r/corruption.html>) efforts continues in [Peace Death Gorge](<https://zeithalt.github.io/r/peace_death_gorge.html>). Following a very close victory, the region - which had remained Corruption-ridden throughout the entirety of the State of Emergency - has finally been cleared.
+
+The tried-and-tested strategy was perfectly executed once more, cleaning up the region in full.
+
+Notably, some factions were seen withholding resources and fortifying their own defenses along the Deltan border, instead of assisting with the anti-Corruption efforts.
+
+Even though a new [CR Outburst](<https://zeithalt.github.io/r/cr_fallout.html>) is already on the horizon, the factions are, for once, hopeful and confident in their ability to meet it with full force and prevent a new State of Emergency.
+
+However, the tensions are slowly rising as the _Corruption_ threat is brought under control, new and interesting times might await Zeithalt Island in the future.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1475.png)
+
+
+## <a id="eon1468"></a>Eon 1468 - Reconquering of Ares Garden
+`2025-12-03`
+
+`⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
+
+[Ares Garden](<https://zeithalt.github.io/r/ares_gardens.html>) - the land from which the [longest State of Emergency began](<https://zeithalt.github.io/t/#eon1354>) following a mistake by [Deltan](<https://zeithalt.github.io/r/deltans.html>) leadership - has now been targeted to finally bring it to an end.
+
+There were reports before the battle that, in anticipation of a long and difficult clean-up, the Deltans had been conserving their resources during previous battles.
+
+One peculiar incident involved the [Fighters Guild](<https://zeithalt.github.io/r/fighters_guild.html>) landing on the narrow Shore of Ares. They tried to capture the coast and enforce a naval blockade of the region, claiming to be acting on a private mission funded by an unknown customer.
+
+Even though some _Fighters'_ forces remained on the shore, this blockade failed, as most of it was recaptured by the Deltans.
+
+Through a collective effort, with the [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) at the helm and the _Delta Collective_ following closely behind, the factions once again emerged victorious over the unnatural and unforgiving _Corruption_.
+
+Ares Garden has been fully cleaned up and reconquered, putting an end to the record-breaking, 116-eon State of Emergency.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1468.png)
+
+
+## <a id="eon1460"></a>Eon 1460 - Unification of Timeless Desert
+`2025-11-25`
+
+`⚔️ Battle` won by [Cloudy Operatives](<https://zeithalt.github.io/r/cloudy_operatives.html>)
+
+Even though this battle was initially presented as yet another anti-[Corruption](<https://zeithalt.github.io/r/corruption.html>) effort, it was later revealed to be a move to consolidate Cloudy Operatives' control over the [Timeless Desert](<https://zeithalt.github.io/r/timeless_desert.html>).
+
+Ever since the [Deltan destruction and plunder](<https://zeithalt.github.io/t/#eon1320>) of the Desert and the subsequent [recapture by allied forces](<https://zeithalt.github.io/t/#eon1374>), allied troops have remained in the region to ensure its stability.
+
+With this latest development, the allied factions withdrew their forces, allowing full control of the Desert to be restored.
+
+This did not happen without complications. The Deltans launched a solid counter-effort in the southern regions, and _Corruption_ was unleashed when its hotspots were disturbed.
+
+However, despite all the adversities, the Desert has once again been firmly taken under the sole control of the Operatives.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1460.png)
+
+
 ## <a id="eon1452"></a>Eon 1452 - Misguided Battle of Brickland Fortress
 `2025-11-17`
 
