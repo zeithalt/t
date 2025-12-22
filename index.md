@@ -1,4 +1,24 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1485"></a>Eon 1485 - Almost Festive Battle in Chaotic Plains
+`2025-12-20`
+
+`⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) (combined faction forces)
+
+Since the time the [Corruption](<https://zeithalt.github.io/r/corruption.html>) outburst was predicted to occur in the [Chaotic Plains](<https://zeithalt.github.io/r/chaotic_plains.html>), most on the Island expected yet another calm and calculated clean-up battle.
+
+This proved true - with regard to the _Corruption_ - however, during the battle, tensions were much higher than anticipated.
+
+In the lead-up to the event, both the [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) and [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) had prepared for battle.
+
+While the actual anti-CR effort was performed by the _Deltans_ (and other combined faction forces), the _Silvans_ seemingly used the time to strengthen their holdings in the Chaotic Plains.
+
+Throughout the entire operation, _Deltan_ and _Silvan_ forces stood in confrontation against each other, prepared for a clash... which never came.
+
+The battle ended with the complete eradication of _Corruption_ in the region, with both sides having cleaned it up from the lands they controlled.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1485.png)
+
+
 ## <a id="eon1475"></a>Eon 1475 - Clean-up of Peace Death Gorge
 `2025-12-10`
 
