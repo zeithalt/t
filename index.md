@@ -1,4 +1,26 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1494"></a>Eon 1494 - Actually Festive Battle in Brickland Fortress
+`2025-12-29`
+
+`⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>)
+
+In the lead-up to this battle, [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) observed [Deltan](<https://zeithalt.github.io/r/deltans.html>) movements in _Peace Death Gorge_ and made a calculated guess that their defences might be spread thin across multiple lands.
+
+The decision to strike [Brickland Fortress](<https://zeithalt.github.io/r/brickland_fortress.html>) was a gamble, but the risk seemed justified.
+
+Unfortunately, the bulk of the _Deltan_ army was stationed precisely there; due to this miscalculation, the battle was doomed from the start.
+
+A hint of mistrust had arisen among the allies before the battle, when _Silvan_ leader [Ogrodnik](<https://zeithalt.github.io/r/ogrodnik.html>) publicly joked about attacking the desert.
+
+This comment made many in [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>), [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>), and [Cloudy Operatives](<https://zeithalt.github.io/r/cloudy_operatives.html>) feel uneasy, as they had lately come to view the _Silvans_ as an increasingly unpredictable ally.
+
+In the end, [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) launched this attack almost alone against a solid wall of _Deltan_ defence.
+
+The offensive predictably failed, as most of the usual warriors did not even interrupt their festivities to attend the battle.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1494.png)
+
+
 ## <a id="eon1485"></a>Eon 1485 - Almost Festive Battle in Chaotic Plains
 `2025-12-20`
 
