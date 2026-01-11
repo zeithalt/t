@@ -1,5 +1,5 @@
 # <a id="top"></a>Zeithalt Timeline
-## <a id="eon1504"></a>Eon 1504 - Battle in Imperial Swamp
+## <a id="eon1504"></a>Eon 1504 - Ordinary Battle in Imperial Swamp
 `2026-01-08`
 
 `⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
