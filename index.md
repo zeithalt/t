@@ -1,4 +1,20 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1504"></a>Eon 1504 - Battle in Imperial Swamp
+`2026-01-08`
+
+`⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
+
+This battle in [Imperial Swamp](<https://zeithalt.github.io/r/imperial_swamp.html>) was yet another calm and methodical [Corruption](<https://zeithalt.github.io/r/corruption.html>) clean-up.
+
+The most notable aspect was the immense effort the [Deltans](<https://zeithalt.github.io/r/deltans.html>) had to exert to fight the _Corruption_ in the absence of other factions on the battlefield.
+
+The only faction that meaningfully helped them was [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>), prompting quiet discussions about their allegiance in future battles.
+
+However, with a sizable chunk of CI's [Webified Hills](<https://zeithalt.github.io/r/webified_hills.html>) still not cleared of [Corruption Fallout](<https://zeithalt.github.io/r/cr_fallout.html>), this might have just been their way of complying with treaties to ensure _Deltan_ support in the upcoming clean-up.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1504.png)
+
+
 ## <a id="eon1494"></a>Eon 1494 - Actually Festive Battle in Brickland Fortress
 `2025-12-29`
 
