@@ -1,4 +1,22 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1512"></a>Eon 1512 - Tomfoolery in Synaxos Fields
+`2026-01-16`
+
+`⚔️ Battle` won by [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>)
+
+This battle was yet another routine (though important) and methodical [Corruption](<https://zeithalt.github.io/r/corruption.html>) clean-up operation.
+
+The highlight of the event was an unexpected cascade of war declarations.
+
+For an unknown reason, almost all factions declared war on each other simultaneously. This confused the hell out of uptight and usually more collected leaders of [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) and [Cloudy Operatives](<https://zeithalt.github.io/r/cloudy_operatives.html>).
+
+Some reports attribute this to the work of a hidden malicious actor, while others blame unfounded mass hysteria within the factions' high commands.
+
+The truth, as always, probably lies somewhere in between.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1512.png)
+
+
 ## <a id="eon1504"></a>Eon 1504 - Ordinary Battle in Imperial Swamp
 `2026-01-08`
 
