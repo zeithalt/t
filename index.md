@@ -1,4 +1,22 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1522"></a>Eon 1522 - Hard Siege of Cerene Vale
+`2026-01-26`
+
+`⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>)
+
+Despite having about the same impact on the map as [the previous battle](<https://zeithalt.github.io/t/#eon1209>) in [Cerene Vale](<https://zeithalt.github.io/r/cerene_vale.html>), this battle proved to be very different.
+
+The combined [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) and [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) forces came prepared and launched the biggest offensive seen in hundreds of eons, perhaps ever.
+
+Record-breaking Deltan numbers on the battlefield were met by even larger forces on the defending side.
+
+[Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>), joined by very strong support from [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) and [Cloudy Operatives](<https://zeithalt.github.io/r/cloudy_operatives.html>), stood strong on the battlefield, pulling off an immense effort to firmly hold their capital against the enemy.
+
+One interesting point was the almost complete absence of [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>), who took a neutral stance in this battle, deciding not to participate in the defence of their longest ally's capital.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1522.png)
+
+
 ## <a id="eon1512"></a>Eon 1512 - Tomfoolery in Synaxos Fields
 `2026-01-16`
 
