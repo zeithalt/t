@@ -1,4 +1,18 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1530"></a>Eon 1530 - Final Clean-Up of Webified Hills
+`2026-02-03`
+
+`⚔️ Battle` won by [Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>)
+
+_Cybernetics Inc_ performed the final push against [Corruption](<https://zeithalt.github.io/r/corruption.html>) in [Webified Hills](<https://zeithalt.github.io/r/webified_hills.html>), clearing the very last corrupted land on the Island.
+
+The clean-up was methodical and careful, as has become the norm lately; however, the lack of support from some factions was noted in Admincity.
+
+The Island looks remarkably clean and free of _Corruption_ ahead of a new [Corruption Outburst](<https://zeithalt.github.io/r/cr_fallout.html>) predicted to start soon in [Ares Gardens](<https://zeithalt.github.io/r/ares_gardens.html>).
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1530.png)
+
+
 ## <a id="eon1522"></a>Eon 1522 - Hard Siege of Cerene Vale
 `2026-01-26`
 
