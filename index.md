@@ -1,4 +1,20 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1538"></a>Eon 1538 - Corruption Outburst in Ares Gardens
+`2026-02-11`
+
+`⚔️ Battle` won by [Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) (combined faction forces)
+
+The [Corruption Outburst](<https://zeithalt.github.io/r/cr_fallout.html>) occurred in [Ares Gardens](<https://zeithalt.github.io/r/ares_gardens.html>) as predicted, and the factions stood ready.
+
+The joint clean-up and containment operation was executed according to plan, without any significant hiccups.
+
+[Cybernetics Inc](<https://zeithalt.github.io/r/cybernetics_inc.html>) also performed a simultaneous clean-up of a few remaining hot-spots in [Webified Hills](<https://zeithalt.github.io/r/webified_hills.html>).
+
+For the first time in 440 eons, the island stands completely free of [Corruption](<https://zeithalt.github.io/r/corruption.html>).
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1538.png)
+
+
 ## <a id="eon1530"></a>Eon 1530 - Final Clean-Up of Webified Hills
 `2026-02-03`
 
