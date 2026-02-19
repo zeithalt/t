@@ -1,4 +1,15 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1546"></a>Eon 1546 - DC transfer control over Brickland Fortress to BB
+`2026-02-19`
+
+`⌛ Event`
+
+[Delta Collective](<https://zeithalt.github.io/r/delta_collective.html>) transfer control over [Brickland Fortress](<https://zeithalt.github.io/r/brickland_fortress.html>) to the [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>).
+
+In a joint operation and with the help of [Fighters Guild](<https://zeithalt.github.io/r/fighters_guild.html>), heavily sabotaged by other factions, [Deltans](<https://zeithalt.github.io/r/deltans.html>) pull off a major move to escalate tensions on the Island.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1546.png)
+
 ## <a id="eon1538"></a>Eon 1538 - Corruption Outburst in Ares Gardens
 `2026-02-11`
 
