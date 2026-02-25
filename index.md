@@ -1,4 +1,24 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1547"></a>Eon 1547 - The Bombing of Oblivion Mire
+`2026-02-20`
+
+`⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
+
+From their recently acquired foothold in [Brickland Fortress](<https://zeithalt.github.io/r/brickland_fortress.html>), the [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>) launched a relentless attack on [Oblivion Mire](<https://zeithalt.github.io/r/oblivion_mire.html>).
+
+Slow at first, their crawling advance accelerated in the final third of the battle when the heavy bombing began.
+
+Once the allied defences were broken, the [Deltans](<https://zeithalt.github.io/r/deltans.html>) surrounded and quickly took the eastern part of _Oblivion Mire_, then focused their forces on eliminating the remaining pockets of resistance in the west.
+
+Despite winning the battle in spectacular fashion, the _Band of Brothers_ also suffered a devastating loss.
+
+A _Silvan_ artillery shell hit the _Brothers'_ command center. Early reports suggested the deaths of several high-ranking _Deltan_ officers, including almost the entire command staff of the _Band of Brothers_ faction.
+
+It was later clarified that most survived the strike with minor injuries; however, the [founder and spiritual leader of the faction](<https://zeithalt.github.io/r/t.html>) was confirmed dead.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1547.png)
+
+
 ## <a id="eon1546"></a>Eon 1546 - DC transfer control over Brickland Fortress to BB
 `2026-02-19`
 
