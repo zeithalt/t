@@ -1,4 +1,24 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1557"></a>Eon 1557 - The Proxy Battle of Brickland Fortress
+`2026-03-02`
+
+`⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>)
+
+Quite unexpectedly, this battle was initiated by the [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) launching a sea assault on [Brickland Fortress](<https://zeithalt.github.io/r/brickland_fortress.html>).
+
+This initial attack by _MindTech_ was, however, just a decoy for a larger and stronger joint land and sea invasion by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>), aimed at retaking their historic lands.
+
+After the initial land incursion was halted by the [Deltans](<https://zeithalt.github.io/r/deltans.html>), a slow and methodical grind began.
+
+The _Silvans_ attempted a few more sea attacks; however, their land invasion from [Cerene Vale](<https://zeithalt.github.io/r/cerene_vale.html>) achieved the most success.
+
+Up until the very end, it was unclear who would emerge victorious.
+
+In the final attack, a simultaneous pincer maneuver by the _Silvans_ in the southeast and the [Operatives](<https://zeithalt.github.io/r/cloudy_operatives.html>) in the north was enough to overwhelm the _Deltan_ defences and win the battle.
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1557.png)
+
+
 ## <a id="eon1547"></a>Eon 1547 - The Bombing of Oblivion Mire
 `2026-02-20`
 
