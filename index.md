@@ -1,5 +1,5 @@
 # <a id="top"></a>Zeithalt Timeline
-## <a id="eon1572"></a>Eon 1572 - `🛑 Forest Fire` in Brickland Fortress
+## <a id="eon1572"></a>Eon 1572 - 🛑 Forest Fire in Brickland Fortress
 `2026-03-17`
 
 `⌛ Event` by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>)
@@ -10,7 +10,7 @@ Unfortunately, at one of the sites, a stash of unexploded munitions from [the pr
 
 This leads to an explosion and a forest fire.
 
-_Protectores Silva_ is able to minimize the damages despite heavy sabotage from [Deltans](<https://zeithalt.github.io/r/deltans.html>) and some covert actors. 
+_Protectores Silva_ is able to minimize the damages despite heavy sabotage from [Deltans](<https://zeithalt.github.io/r/deltans.html>) and other covert actors. 
 
 
 ## <a id="eon1566"></a>Eon 1566 - Uneventful Battle of Mt. Pickles
