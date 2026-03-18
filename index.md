@@ -1,4 +1,38 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1572"></a>Eon 1572 - `🛑 Forest Fire` in Brickland Fortress
+`2026-03-17`
+
+`⌛ Event` by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>)
+
+As _Protectores Silva_ regain control of some parts of the [Brickland Fortress](<https://zeithalt.github.io/r/brickland_fortress.html>), they bring back their Regenerative Forestry practices and seek to reinstate selective tree harvesting in the area.
+
+Unfortunately, at one of the sites, a stash of unexploded munitions from [the previous battle](<https://zeithalt.github.io/t/#eon1566>) is disturbed by tree-felling operations.
+
+This leads to an explosion and a forest fire.
+
+_Protectores Silva_ is able to minimize the damages despite heavy sabotage from [Deltans](<https://zeithalt.github.io/r/deltans.html>) and some covert actors. 
+
+
+## <a id="eon1566"></a>Eon 1566 - Uneventful Battle of Mt. Pickles
+`2026-03-11`
+
+`⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>)
+
+In the lead-up to the battle of [Mt. Pickles](<https://zeithalt.github.io/r/mt_pickles.html>), [Deltans](<https://zeithalt.github.io/r/deltans.html>) performed troops maneuvering with the apparent goal of confusing the enemy, as both _Deltan_ factions prepared for battle.
+
+However, when the attack came, it was a disaster.
+
+_Protectores Silva_ were not fooled by the _Deltan_ army, and placed their defences in strategic spots in the region.
+
+After the initial wave of attacks hit a wall, the _Deltan_ army regrouped and seemingly abandoned the goal of conquering _Mt. Pickles_.
+
+Situational skirmishes along the border continued for a while, but were not strong enough to pose any danger to the [Silvans](<https://zeithalt.github.io/r/silvans.html>).
+
+At some point during the battle, some of the _Silvan_ forces were regrouped to participate in the joint military exercise at the border with [Cloudy Operatives](<https://zeithalt.github.io/r/cloudy_operatives.html>)
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1566.png)
+
+
 ## <a id="eon1557"></a>Eon 1557 - The Proxy Battle of Brickland Fortress
 `2026-03-02`
 
