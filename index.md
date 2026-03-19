@@ -1,35 +1,53 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1574"></a>Eon 1574 - Royal Guard is founded
+`2026-03-19`
+
+`⌛ Event`
+
+By the Royal Decree of the 57th [King of Zeithalt](<https://zeithalt.github.io/r/king_of_zeithalt.html>) simply known as 40 of the [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>), the [Royal Guard](<https://zeithalt.github.io/r/royal_guard.html>) was founded to protect the royals in battle.
+
+The [Guard](<https://zeithalt.github.io/r/royal_guard.html>) will continue its mission to seek and crown the new [Kings of Zeithalt](<https://zeithalt.github.io/r/king_of_zeithalt.html>) and uphold the tradition
+of the [King's Challenges](<https://zeithalt.github.io/r/kings_challenges.html>).
+
+The new faction also vows to be neutral and fair to all other factions.
+
+They will support any [Kings](<https://zeithalt.github.io/r/king_of_zeithalt.html>) that win [Challenges](<https://zeithalt.github.io/r/kings_challenges.html>), no matter to what faction they belong.
+
+And while helping the [Kings](<https://zeithalt.github.io/r/king_of_zeithalt.html>) in battle, never to be
+seen as a threat to the factions and not to attack their lands.
+
+The fighting will be done in the name of the [King](<https://zeithalt.github.io/r/king_of_zeithalt.html>) at the time but never on behalf of the [Royal Guard](<https://zeithalt.github.io/r/royal_guard.html>) itself.
+
+
 ## <a id="eon1572"></a>Eon 1572 - 🛑 Forest Fire in Brickland Fortress
 `2026-03-17`
 
 `⌛ Event` by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>)
 
-As _Protectores Silva_ regain control of some parts of the [Brickland Fortress](<https://zeithalt.github.io/r/brickland_fortress.html>), they bring back their Regenerative Forestry practices and seek to reinstate selective tree harvesting in the area.
+As [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) regain control of some parts of the [Brickland Fortress](<https://zeithalt.github.io/r/brickland_fortress.html>), they bring back their Regenerative Forestry practices and seek to reinstate selective tree harvesting in the area.
 
 Unfortunately, at one of the sites, a stash of unexploded munitions from [the previous battle](<https://zeithalt.github.io/t/#eon1566>) is disturbed by tree-felling operations.
 
 This leads to an explosion and a forest fire.
 
-_Protectores Silva_ is able to minimize the damages despite heavy sabotage from [Deltans](<https://zeithalt.github.io/r/deltans.html>) and other covert actors. 
-
+[Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) is able to minimize the damages despite heavy sabotage from [Deltans](<https://zeithalt.github.io/r/deltans.html>) and other covert actors.
 
 ## <a id="eon1566"></a>Eon 1566 - Uneventful Battle of Mt. Pickles
 `2026-03-11`
 
 `⚔️ Battle` won by [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>)
 
-In the lead-up to the battle of [Mt. Pickles](<https://zeithalt.github.io/r/mt_pickles.html>), [Deltans](<https://zeithalt.github.io/r/deltans.html>) performed troops maneuvering with the apparent goal of confusing the enemy, as both _Deltan_ factions prepared for battle.
+In the lead-up to the battle of [Mt. Pickles](<https://zeithalt.github.io/r/mt_pickles.html>), [Deltans](<https://zeithalt.github.io/r/deltans.html>) performed troops maneuvering with the apparent goal of confusing the enemy, as both [Deltan](<https://zeithalt.github.io/r/deltans.html>) factions prepared for battle.
 
 However, when the attack came, it was a disaster.
 
-_Protectores Silva_ were not fooled by the _Deltan_ army, and placed their defences in strategic spots in the region.
+[Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) were not fooled by the [Deltan](<https://zeithalt.github.io/r/deltans.html>) army, and placed their defences in strategic spots in the region.
 
-After the initial wave of attacks hit a wall, the _Deltan_ army regrouped and seemingly abandoned the goal of conquering _Mt. Pickles_.
+After the initial wave of attacks hit a wall, the [Deltan](<https://zeithalt.github.io/r/deltans.html>) army regrouped and seemingly abandoned the goal of conquering [Mt. Pickles](<https://zeithalt.github.io/r/mt_pickles.html>).
 
 Situational skirmishes along the border continued for a while, but were not strong enough to pose any danger to the [Silvans](<https://zeithalt.github.io/r/silvans.html>).
 
-At some point during the battle, some of the _Silvan_ forces were regrouped to participate in the joint military exercise at the border with [Cloudy Operatives](<https://zeithalt.github.io/r/cloudy_operatives.html>)
-
+At some point during the battle, some of the [Silvan](<https://zeithalt.github.io/r/silvans.html>) forces were regrouped to participate in the joint military exercise at the border with [Cloudy Operatives](<https://zeithalt.github.io/r/cloudy_operatives.html>)
 ![Battle Map](https://zeithalt.github.io/t/m/eon1566.png)
 
 
