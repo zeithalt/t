@@ -1,4 +1,20 @@
 # <a id="top"></a>Zeithalt Timeline
+## <a id="eon1577"></a>Eon 1577 - Royal Guard rebels in the Illusion Cliffs
+`2026-03-22`
+
+`⌛ Event` by [Royal Guard](<https://zeithalt.github.io/r/royal_guard.html>)
+
+Following the [foundation](<https://zeithalt.github.io/t/#eon1574>) of the [Royal Guard](<https://zeithalt.github.io/r/royal_guard.html>), the Governor of the [Illusion Cliffs](<https://zeithalt.github.io/r/illusion_cliffs.html>) and the [Royal Guard Commander](<https://zeithalt.github.io/r/royal_guard_commander.html>) named [Alexx](<https://zeithalt.github.io/r/alexx.html>) declares independence from [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>), effectively starting a rebellion.
+
+The stated goal of the rebellion is to "acquire a free, independent and neutral land to build a place of residence for all future kings and queens, no matter their faction", as quoted by the [Commander Alexx](<https://zeithalt.github.io/r/alexx.html>).
+
+However, many on the Island see this action as a direct contraction to the [Royal Guard](<https://zeithalt.github.io/r/royal_guard.html>) founding [principles](<https://zeithalt.github.io/t/#eon1574>), some believing that the faction acts on the oders of the [Deltan](<https://zeithalt.github.io/r/deltans.html>) [King](<https://zeithalt.github.io/r/king_of_zeithalt.html>) simply known as 40.
+
+While the [Guard](<https://zeithalt.github.io/r/royal_guard.html>) itself claims to act in the interest of the entire Zeithalt Island, it remains to be seen which factions will support this rebellion or help [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) regain control of the region.
+
+
+
+
 ## <a id="eon1574"></a>Eon 1574 - Royal Guard is founded
 `2026-03-19`
 
