@@ -8,11 +8,27 @@ Following the [foundation](<https://zeithalt.github.io/t/#eon1574>) of the [Roya
 
 The stated goal of the rebellion is to "acquire a free, independent and neutral land to build a place of residence for all future kings and queens, no matter their faction", as quoted by the [Commander Alexx](<https://zeithalt.github.io/r/alexx.html>).
 
-However, many on the Island see this action as a direct contraction to the [Royal Guard](<https://zeithalt.github.io/r/royal_guard.html>) founding [principles](<https://zeithalt.github.io/t/#eon1574>), some believing that the faction acts on the oders of the [Deltan](<https://zeithalt.github.io/r/deltans.html>) [King](<https://zeithalt.github.io/r/king_of_zeithalt.html>) simply known as 40.
+However, many on the Island see this action as a direct contraction to the [Royal Guard](<https://zeithalt.github.io/r/royal_guard.html>) founding [principles](<https://zeithalt.github.io/t/#eon1574>), some believing that the faction acts on the orders of the [Deltan](<https://zeithalt.github.io/r/deltans.html>) [King](<https://zeithalt.github.io/r/king_of_zeithalt.html>) simply known as 40.
 
 While the [Guard](<https://zeithalt.github.io/r/royal_guard.html>) itself claims to act in the interest of the entire Zeithalt Island, it remains to be seen which factions will support this rebellion or help [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>) regain control of the region.
 
+![Battle Map](https://zeithalt.github.io/t/m/eon1577.png)
 
+
+## <a id="eon1576"></a>Eon 1576 - Another Backfire in Brickland Fortress
+`2026-03-21`
+
+`⚔️ Battle` won by [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>)
+
+Similar to the events of [eon 1365](<https://zeithalt.github.io/t/#eon1365>), [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) attack the remaining [Deltan](<https://zeithalt.github.io/r/deltans.html>) forces in [Brickland Fortress](<https://zeithalt.github.io/r/brickland_fortress.html>), only for it to backfire and the enemy capturing almost the whole region.
+
+This time, their enemy was the [Band of Brothers](<https://zeithalt.github.io/r/band_of_brothers.html>), who were able to fight back and capture the entire region.
+
+With this, the [Protectores Silva](<https://zeithalt.github.io/r/protectores_silva.html>) once again find themselves on the backfoot, their capital almost surrounded by enemies.
+
+To make things worse, unrest is growing right in their backyard with the Governor of [Illusion Cliffs](<https://zeithalt.github.io/r/illusion_cliffs.html>) starting a [confrontation](<https://zeithalt.github.io/t/#eon1577>) with the [MindTech Institute](<https://zeithalt.github.io/r/mindtech_institute.html>).
+
+![Battle Map](https://zeithalt.github.io/t/m/eon1576.png)
 
 
 ## <a id="eon1574"></a>Eon 1574 - Royal Guard is founded
