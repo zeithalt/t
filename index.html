@@ -302,6 +302,22 @@
   cursor: grabbing;
 }
 
+/* ========================================================= */
+/* MISSING LINK — internal links pointing to non-existent    */
+/* pages are styled distinctly so they're easy to spot       */
+/* ========================================================= */
+.mimbot-content a.missing-link {
+  color: var(--text-muted);
+  border-bottom: 1px dashed var(--text-muted);
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
+.mimbot-content a.missing-link:hover {
+  color: var(--text-muted);
+  border-bottom: 1px dashed var(--text-muted);
+}
+
   </style>
 </head>
 <body class="mimbot-theme">
@@ -1222,7 +1238,7 @@
       <h2 id="eon0980">Eon 980 - Restoration of Illusion Cliffs is complete<a class="header-anchor" href="#eon0980">#</a></h2>
       <p><code>2024-08-02</code></p>
       <p><code>⌛ Event</code></p>
-      <p>In another feat of global cooperation, the factions are able to fast-track the lengthy and costly process of restoring the <a href="https://zeithalt.github.io/r/illusion_cliffs.html">Illusion Cliffs</a> region after the <a href="https://zeithalt.github.io/r/cr_fallout.html">Corruption Outburst</a> of <a href="./eon0969.html">Eon 969</a> and complete it in record time.</p>
+      <p>In another feat of global cooperation, the factions are able to fast-track the lengthy and costly process of restoring the <a href="https://zeithalt.github.io/r/illusion_cliffs.html">Illusion Cliffs</a> region after the <a href="https://zeithalt.github.io/r/cr_fallout.html">Corruption Outburst</a> of <a href="./eon0969.md">Eon 969</a> and complete it in record time.</p>
       <p>The region is now declared safe to inhabit again and the population is slowly returning to their homes.</p>
       <figure>
         <img src="https://zeithalt.github.io/t/m/eon0980.png" alt="Battle Map" loading="lazy">
@@ -2753,6 +2769,18 @@
       }
     });
   }
+  // --- Missing Link: Hidden Editor Access (Ctrl+click or Alt+click) ---
+  document.addEventListener('click', (e) => {
+    const link = e.target.closest('a.missing-link');
+    if (!link) return;
+    e.preventDefault();
+    if (e.ctrlKey || e.altKey) {
+      const file = link.dataset.missingFile;
+      if (file) {
+        window.open(`https://alexxdev.eu/md_editor?file=${encodeURIComponent(file)}`, '_blank');
+      }
+    }
+  });
 </script>
 </body>
 </html>
